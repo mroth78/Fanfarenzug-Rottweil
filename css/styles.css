@@ -1,0 +1,126 @@
+/* =========================================================
+Stylesheet für www.fanfarenzug-rottweil.de
+Stand: 01.00
+Datei: styles.css
+Datum: 30.03.2023
+Autor: Michael Roth
+Aufbau: 
+1. Allgemeine Stile
+3. Styles für Layoutbereiche
+4. Sonstige Styles
+========================================================== */
+
+/*========================================================
+Allgemeine Stile
+=========================================================*/
+html { 
+    /* erzwingt Scrollbar im Firefox */
+    height: 100%;  
+    background:#fff;
+  }
+  
+body {        
+    color: black;
+    background-color: #da251d;    
+}
+
+.no-shadows {
+    box-shadow: none!important;
+}
+
+/*========================================================
+Eigene Rahmen für Contentelemente
+=========================================================*/
+.frame-redbox, .frame-greybox {
+	padding: 1rem;	
+}
+
+.frame-greybox { 
+    background: #ccc;       
+}
+
+
+.frame-redbox { 
+    background: #da251d; 
+    color: white;        
+}
+
+
+/*========================================================
+Layoutbereiche
+=========================================================*/
+wrapper {
+    min-height:100vh;
+ }
+
+/*========================================================
+Hauptcontainer der Seite.
+Er zentriert die gesamte Seite im Browser
+=========================================================*/
+.container {    
+    background-color: white;    
+    box-shadow: 0 0 30px black;
+}
+
+/*--------------------------------------------------------
+Seitenkopf mit Logo und Top Menü
+--------------------------------------------------------*/
+.pageheader {
+	padding-top: .8rem;
+	padding-bottom: .8rem;
+    font-size: 80%;
+    border-bottom: 1px #da251d solid;
+}
+
+/*--------------------------------------------------------
+Der eigentliche Inhalt der Seite.
+--------------------------------------------------------*/
+.maincontent {
+    margin-top: 2rem;
+	margin-bottom: 2rem;
+	margin-left: 2rem;
+    margin-right: 2rem;         
+}
+
+/*--------------------------------------------------------
+Hauptnavigation
+--------------------------------------------------------*/
+.main-nav {
+	border-bottom: 1px solid #da251d;
+}
+
+/*--------------------------------------------------------
+Oberes Menü mit Kontakt, Impressum, Datenschutz, Sitemap
+--------------------------------------------------------*/
+.topmenu span,
+.topmenu a {
+    display: inline-block;    
+}
+
+.topmenu a:active,
+.topmenu a:focus,
+.topmenu a:hover {
+	text-decoration: none;
+}
+
+.topmenu span:after {
+	content: "|";
+	padding: 0 10px;
+	color: #eee;
+}
+
+
+.topmenu span:last-child:after,
+.topmenu a:last-child:after {
+	content: "";
+	padding: 0;
+}
+
+/*--------------------------------------------------------
+Seitenfuß mit Copyright Hinweis
+--------------------------------------------------------*/
+.pagefooter {  
+    padding-top: 10px;  
+    border-top: 1px solid #da251d;
+    font-size: 90%;
+}

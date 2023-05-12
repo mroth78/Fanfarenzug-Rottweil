@@ -1,0 +1,5 @@
+# Alle Log-Dateien ignorieren
+*.log
+
+# Alle Unterordner im Ordner Bilder ignorieren
+Bilder/
