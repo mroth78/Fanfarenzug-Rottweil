@@ -66,10 +66,10 @@
             }
 
             // Set the base directory for the albums            
-            $baseDir = "../bilder/" . $year . "/";
+            $baseDir = "bilder/" . $year . "/";            
 
             // If no album directory is specified, show the album list
-            if(empty($albumDir))
+            if (empty($albumDir))
             {
 
                   // Get all the subdirectories of the base directory
@@ -77,22 +77,22 @@
                   
                   if (empty($directories))
                   {
-                    echo "Keine Verzeichnisse gefunden";
-                  }
-
-                  echo "<p>Verzeichnis: " . $baseDir . "<br/>";
-                  echo implode(", ", $directories);
+                    echo "Es wurden leider noch keine Alben angelegt.";
+                  }                                    
 
                   // Loop through each directory and get the album name and description
                   foreach($directories as $directory)
                   {                      
-                        $albumName = basename($directory);
-                        $readmeFile = $directory . "/Readme.txt";
+                        //$albumName = basename($directory);
+                        $contentFile = $directory . "/content.json";
 
                         // Check if the Readme.txt file exists and read the album description from it
-                        if(file_exists($readmeFile))
+                        if(file_exists($contentFile))
                         {
-                              $albumDescription = file_get_contents($readmeFile);
+                            $content = json_decode(file_get_contents(($contentFile), true));
+                            $albumDescription = $content->{'Description'};
+                            $albumName = $content->{'Album'};
+                            //$albumDescription = file_get_contents($readmeFile);
                         }
                         else
                         {
