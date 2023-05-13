@@ -9,8 +9,8 @@
             <link href="css/sm-core-css.css" rel="stylesheet">
             <link href="css/sm-simple.css" rel="stylesheet">
             <link href="css/smartmenu.css" rel="stylesheet">
-            <link href="css/styles.css" rel="stylesheet">    
             <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.8.2/css/lightbox.min.css">
+            <link href="css/styles.css" rel="stylesheet">  
         </head>
     <body>
     <div class="container">
@@ -112,5 +112,13 @@
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.8.2/js/lightbox.min.js"></script>
         <script src="js/app.js"></script>
+        <script>
+            lightbox.option({
+                'resizeDuration': 200,
+                'wrapAround': true,
+                'albumLabel': "Bild %1 von %2",
+                'showImageNumberLabel' : true
+            })
+</script>
     </body>  
 </html>

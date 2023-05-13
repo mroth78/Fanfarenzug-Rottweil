@@ -45,42 +45,5 @@ function showCopyrightDate()
     document.getElementById("copyrightYear").innerHTML = date;
 }
 
-
-//
-// Lädt die angegebene Datei in das Template <div>
-//
-function loadHtml(fileName)
-{
-    console.log(`filename: ${fileName}`);
-    
-    let xhttp;
-    let element = document.getElementById('contentTemplate');
-    let file = fileName;
-
-    if (file)
-    {
-        xhttp = new XMLHttpRequest();
-        xhttp.onreadystatechange = function() 
-        {
-            if (this.readyState == 4)
-            {
-                if (this.status == 200)
-                {
-                    element.innerHTML = this.responseText;
-                }
-
-                if (this.status == 404)
-                {
-                    element.innerHTML = "<h1>Seite wurde nicht gefunden</h1>";
-                }
-            }
-        }
-
-        xhttp.open('GET', `pages/${file}`, true);
-        xhttp.send();
-        return;
-    }
-}
-
 // Aufruf der Funktionen
 showCopyrightDate();
