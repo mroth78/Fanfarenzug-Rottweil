@@ -82,8 +82,7 @@
 
                   // Loop through each directory and get the album name and description
                   foreach($directories as $directory)
-                  {                      
-                        //$albumName = basename($directory);
+                  {                                              
                         $contentFile = $directory . "/content.json";
 
                         // Check if the Readme.txt file exists and read the album description from it
@@ -91,12 +90,11 @@
                         {
                             $content = json_decode(file_get_contents(($contentFile), true));
                             $albumDescription = $content->{'Description'};
-                            $albumName = $content->{'Album'};
-                            //$albumDescription = file_get_contents($readmeFile);
+                            $albumName = $content->{'Album'};                        
                         }
                         else
                         {
-                              $albumDescription = "";
+                              echo "<h2>Fehler beim Laden der Inhaltsdatei.</h2>";
                         }
 
                         // Output the album name and description as a link to the album
