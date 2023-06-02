@@ -1,57 +1,3 @@
-<style rel="stylesheet">
-      .photo-gallery {
-  color:#313437;
-  background-color:#fff;
-}
-
-.photo-gallery p {
-  color:#7d8285;
-}
-
-.photo-gallery h2 {
-  font-weight:bold;
-  margin-bottom:40px;
-  padding-top:40px;
-  color:inherit;
-}
-
-@media (max-width:767px) {
-  .photo-gallery h2 {
-    margin-bottom:25px;
-    padding-top:25px;
-    font-size:24px;
-  }
-}
-
-.photo-gallery .intro {
-  font-size:16px;
-  max-width:500px;
-  margin:0 auto 40px;
-}
-
-.photo-gallery .intro p {
-  margin-bottom:0;
-}
-
-.photo-gallery .photos {
-  padding-bottom:20px;
-}
-
-.photo-gallery .item {
-  padding-bottom:30px;
-}
-</style>
-
-<script>
-    lightbox.option({
-      'resizeDuration': 200,
-      'wrapAround': true,
-      'albumLabel': "Bild %1 von %2",
-      'showImageNumberLabel' : false
-    })
-</script>
-
-
 <?php    
       if (isset($_GET['year']))
       {
@@ -71,7 +17,6 @@
             // If no album directory is specified, show the album list
             if (empty($albumDir))
             {
-
                   // Get all the subdirectories of the base directory
                   $directories = glob($baseDir . '*', GLOB_ONLYDIR);                  
                   
@@ -85,8 +30,8 @@
                   {                                              
                         $contentFile = $directory . "/content.json";
 
-                        // Check if the Readme.txt file exists and read the album description from it
-                        if(file_exists($contentFile))
+                        // Check if the content.json file exists and read the album description from it
+                        if (file_exists($contentFile))
                         {
                             $content = json_decode(file_get_contents(($contentFile), true));
                             $albumDescription = $content->{'Description'};
@@ -97,9 +42,11 @@
                               echo "<h2>Fehler beim Laden der Inhaltsdatei.</h2>";
                         }
 
-                        // Output the album name and description as a link to the album
-                        echo "<a href='?album=$albumName'>$albumName</a><br>";
-                        echo "$albumDescription<br><br>";
+                            // Output the album name and description as a link to the album
+                            echo "<img src='$thumbnail' width='150'/><br>";
+                            echo "<a href='?page=gallery&year=$year&album=$albumDirectory'>$albumName</a><br>";
+                            echo "$albumDescription<br><br>";
+                        }          
                   }
             }
             else
@@ -111,18 +58,25 @@
                   $imageFiles = glob($albumPath . "*.{jpg,jpeg,png,gif}", GLOB_BRACE);
 
                   // Output the album name
-                  echo "<h1>$albumDir</h1>";
+                  echo "<h3 style='clear: both;'>$albumName</h3>";
+
+                  echo "<div class='image-row'>";
+                  echo "<div class='image-set'>";
 
                   // Loop through each image file and display it as a thumbnail linked to the full-size image
                   foreach($imageFiles as $imageFile)
                   {
-                        $imageFileName = basename($imageFile);
-                        echo "<a href='$imageFile' onclick='loadHtml('gallerie/2010.php')'><img src='$imageFile' width='150'></a>";
+                    $imageFileName = basename($imageFile);
+                    $imageFileNamePath = "../" . $imageFile;
+                    echo "<a class='example-image-link' href='$imageFileNamePath' data-lightbox='album'><img class='example-image' src='$imageFileNamePath'/></a>";
                   }
+
+                  echo "</div>";
+                  echo "</div>";
             }
       }
       else
       {
-        echo "<h1>Das Jahr wurde nicht gefunden!</h1>";
+        echo "<h3>Das Jahr wurde nicht gefunden!</h3>";
       }
 ?>

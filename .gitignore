@@ -2,4 +2,4 @@
 *.log
 
 # Alle Unterordner im Ordner Bilder ignorieren
-Bilder/
+bilder/
