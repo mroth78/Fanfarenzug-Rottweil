@@ -32,8 +32,8 @@
                         foreach($directories as $directory)
                         {                                              
                               $contentFile = $directory . "/content.json";
-                              
-                              // Check if the content.json file exists and read the album description from it
+                                                            
+                              // Prüfen ob die Datei content.json vohanden ist und die Daten wenn möglich auslesen.
                               if (file_exists($contentFile))
                               {
                                     $content = json_decode(file_get_contents(($contentFile), true));
@@ -56,8 +56,7 @@
                               }                        
                         }
 
-                        echo "</div>";
-                        // echo "</section>";
+                        echo "</div>";                        
                   }          
             }            
             else
