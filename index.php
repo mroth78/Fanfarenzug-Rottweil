@@ -100,7 +100,7 @@
                     <li><a href="index.php?page=home" title="Start">Start</a></li>
                     
                     <!-- Über uns -->
-                    <li><a href="#" title="Über uns">Über uns</a>
+                    <li><a href="index.php?page=ueber_uns/vorstand" title="Über uns">Über uns</a>
                         <ul>
                             <li><a href="index.php?page=ueber_uns/vorstand" title="Vorstand">Vorstand</a></li>
                             <li><a href="#" title="Ausschuss">Ausschuss</a></li>
@@ -111,7 +111,7 @@
                     </li>
 
                     <!-- Geschichtliches -->
-                    <li><a href="#" title="Geschichtliches">Geschichtliches</a>
+                    <li><a href="index.php?page=chronik/chronik" title="Geschichtliches">Geschichtliches</a>
                         <ul>
                             <li><a href="index.php?page=chronik/chronik" title="Chronik ">Chronik</a></li>
                             <li><a href="index.php?page=chronik/fanfaren" title="Fanfaren ">Fanfaren</a></li>
@@ -119,7 +119,7 @@
                     </li>
 
                     <!-- Fahnenschwingen-->
-                    <li><a href="#" title="Fahnenschwingen">Fahnenschwingen</a>                    
+                    <li><a href="index.php?page=fahnenschwingen/heute" title="Fahnenschwingen">Fahnenschwingen</a>                    
                         <ul>
                             <li><a href="index.php?page=fahnenschwingen/heute" title="Fahnenschwingen heute">Heute</a></li>
                             <li><a href="index.php?page=fahnenschwingen/geschichte" title="Fahnenschwingen Geschichte">Geschichte</a></li>
@@ -131,7 +131,7 @@
                     <li><a href="#" title="Termine">Termine</a></li>
 
                     <!-- Bilder -->
-                    <li><a href="#" title="Bilder">Bilder</a>
+                    <li><a href="index.php?page=gallery&year=2010" title="Bilder">Bilder</a>
                         <ul>
                             <li><a href="index.php?page=gallery&year=2010" title="Das Jahr 2010">2010</a></li>
                         </ul>
