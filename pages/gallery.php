@@ -27,7 +27,7 @@
                   else
                   {                  
                         echo "<div class='row' id='album'>";
-                        
+                                                
                         // Alle Verzeichnisse durchlaufen und Albumname, Thumbnail und Beschreibung auslesen
                         foreach($directories as $directory)
                         {                                              
@@ -62,8 +62,8 @@
             else
             {                          
                   // Pfad und Name zum Album holen
-                  $albumPath = $baseDir . $albumDir . "/";
-                  $albumName = $_GET['name']; 
+                  $albumPath = $albumDir . "/";
+                  $albumName = $_GET['name'];                                     
                   
                   // Alle Bilder aus dem Verzeichnis holen
                   $imageFiles = glob($albumPath . "*.{jpg,jpeg,png,gif}", GLOB_BRACE);
