@@ -99,31 +99,48 @@
                 <ul id="main-menu" class="sm sm-simple">
                     <li><a href="#" title="Start">Start</a></li>
                     
+                    <!-- Über uns -->
                     <li><a href="#" title="Über uns">Über uns</a>
-                    <ul>
-                        <li><a href="#" title="Vorstand">Vorstand</a></li>
-                        <li><a href="#" title="Ausschuss">Ausschuss</a></li>
-                        <li><a href="#" title="Instrumente">Instrumente</a></li>
-                        <li><a href="#" title="Fahnenschwinger">Fahnenschwinger</a></li>
-                        <li><a href="#" title="Satzung">Satzung</a></li>
-                    </ul>
+                        <ul>
+                            <li><a href="#" title="Vorstand">Vorstand</a></li>
+                            <li><a href="#" title="Ausschuss">Ausschuss</a></li>
+                            <li><a href="#" title="Instrumente">Instrumente</a></li>
+                            <li><a href="#" title="Fahnenschwinger">Fahnenschwinger</a></li>
+                            <li><a href="#" title="Satzung">Satzung</a></li>
+                        </ul>
                     </li>
 
-                    <li><a href="#" title="Geschichtliches">Geschichtliches</a></li>
-                    <li><a href="#" title="Fahnenschwingen">Fahnenschwingen</a>
-                    <ul>
-                        <li><a href="index.php?page=fahnenschwingen/heute" title="Fahnenschwingen heute">Heute</a></li>
-                        <li><a href="index.php?page=fahnenschwingen/geschichte" title="Fahnenschwingen Geschichte">Geschichte</a></li>
-                        <li><a href="index.php?page=fahnenschwingen/plazierungen" title="Fahnenschwingen Plazierungen">Plazierungen</a></li>
-                    </ul>
+                    <!-- Geschichtliches -->
+                    <li><a href="#" title="Geschichtliches">Geschichtliches</a>
+                        <ul>
+                            <li><a href="index.php?page=chronik/chronik" title="Chronik ">Chronik</a></li>
+                            <li><a href="index.php?page=chronik/fanfaren" title="Fanfaren ">Fanfaren</a></li>
+                        </ul>
                     </li>
+
+                    <!-- Fahnenschwingen-->
+                    <li><a href="#" title="Fahnenschwingen">Fahnenschwingen</a>                    
+                        <ul>
+                            <li><a href="index.php?page=fahnenschwingen/heute" title="Fahnenschwingen heute">Heute</a></li>
+                            <li><a href="index.php?page=fahnenschwingen/geschichte" title="Fahnenschwingen Geschichte">Geschichte</a></li>
+                            <li><a href="index.php?page=fahnenschwingen/plazierungen" title="Fahnenschwingen Plazierungen">Plazierungen</a></li>
+                        </ul>
+                    </li>
+
+                    <!-- Termine -->
                     <li><a href="#" title="Termine">Termine</a></li>
+
+                    <!-- Bilder -->
                     <li><a href="#" title="Bilder">Bilder</a>
-                    <ul>
-                        <li><a href="index.php?page=gallery&year=2010" title="Das Jahr 2010">2010</a></li>
-                    </ul>
+                        <ul>
+                            <li><a href="index.php?page=gallery&year=2010" title="Das Jahr 2010">2010</a></li>
+                        </ul>
                     </li>
+
+                    <!-- Presse -->
                     <li><a href="#" title="Presse">Presse</a></li>
+
+                    <!-- Links- -->
                     <li><a href="index.php?page=links" title="Links">Links</a></li>
                 </ul>
             </nav> <!-- Ende der Hauptnavigation -->  
