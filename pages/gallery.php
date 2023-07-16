@@ -12,7 +12,7 @@
             }
             
             // Basisverzeichnis der Bilder setzen
-            $baseDir = "bilder/" . $year . "/";            
+            $baseDir = "assets/bilder/" . $year . "/";            
             
             // Wenn kein Albumverzeichnis gesetzt wurde, dann die Albumliste anzeigen
             if (empty($albumDir))

@@ -83,9 +83,9 @@
                 </div>
 
                 <div class="row">
-                <div class="col-sm-12">
-                    <a href="https://www.fanfarenzug-rottweil.de" title=""><img src="images/header.jpg" class="img-fluid" alt="Logo"></a>
-                </div>
+                    <div class="col-sm-12">
+                        <a href="https://www.fanfarenzug-rottweil.de" title=""><img src="images/header.jpg" class="img-fluid" alt="Logo"></a>
+                    </div>
                 </div> 
             </div> <!-- Ende des Kopfteils -->
 
@@ -97,12 +97,12 @@
                 </label> 
                 
                 <ul id="main-menu" class="sm sm-simple">
-                    <li><a href="#" title="Start">Start</a></li>
+                    <li><a href="index.php?page=home" title="Start">Start</a></li>
                     
                     <!-- Über uns -->
                     <li><a href="#" title="Über uns">Über uns</a>
                         <ul>
-                            <li><a href="#" title="Vorstand">Vorstand</a></li>
+                            <li><a href="index.php?page=ueber_uns/vorstand" title="Vorstand">Vorstand</a></li>
                             <li><a href="#" title="Ausschuss">Ausschuss</a></li>
                             <li><a href="#" title="Instrumente">Instrumente</a></li>
                             <li><a href="#" title="Fahnenschwinger">Fahnenschwinger</a></li>
@@ -138,7 +138,7 @@
                     </li>
 
                     <!-- Presse -->
-                    <li><a href="#" title="Presse">Presse</a></li>
+                    <li><a href="index.php?page=presse" title="Presse">Presse</a></li>
 
                     <!-- Links- -->
                     <li><a href="index.php?page=links" title="Links">Links</a></li>
