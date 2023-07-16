@@ -136,6 +136,7 @@ Seitenfuß mit Copyright Hinweis
       text-align: left;
     }
   }
+
   .example-image-link {
     display: inline-block;
     padding: 4px;
@@ -149,33 +150,6 @@ Seitenfuß mit Copyright Hinweis
   }
   
   .example-image {
-    width: 7rem;
-    border-radius: var(--border-radius);
-  }
-
-
-  .image-row {
-    text-align: center;
-  }
-  
-  @media (min-width: 720px) {
-    .image-row {
-      text-align: left;
-    }
-  }
-  .example-image-link {
-    display: inline-block;
-    padding: 4px;
-    margin: 0 0.5rem 1rem 0.5rem;
-    background-color: var(--bg-color);
-    line-height: 0;
-    border-radius: var(--border-radius-large);
-  }
-  .example-image-link:hover {
-    background-color: var(--primary-color);
-  }
-  
-  .example-image {
-    width: 7rem;
+    width: 12rem;
     border-radius: var(--border-radius);
   }
