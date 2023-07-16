@@ -6,20 +6,20 @@ on:
       - master 
 
 jobs:
-  deploy:
+  web-deploy:
+    name: 🎉 Deploy
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v2
-    
-    - name: FTP Upload
-      uses: SamKirkland/FTP-Deploy-Action@3.1.1
+    - name: 🚚 Get latest code
+      uses: actions/checkout@v3
+
+    - name: 📂 Sync files
+      uses: SamKirkland/FTP-Deploy-Action@v4.3.4
       with:
+        server: ftp.samkirkland.com
+        username: myFtpUserName
         ftp-server: ${{ secrets.FTP_SERVER }}
         ftp-username: ${{ secrets.FTP_USERNAME }}
         ftp-password: ${{ secrets.FTP_PASSWORD }}
-        #remote-dir: / # Geben Sie hier das Zielverzeichnis auf dem Server an.
-        #local-dir: ./ # Geben Sie hier das lokale Verzeichnis an, in dem sich die Dateien befinden, die Sie hochladen möchten.
-        #exclude: 'node_modules' # Hier die Ausnahmen angeben (z.B. 'node_modules, secret_files')
-
+        dry-run: true              
