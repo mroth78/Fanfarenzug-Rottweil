@@ -19,7 +19,7 @@ jobs:
         ftp-server: ${{ secrets.FTP_SERVER }}
         ftp-username: ${{ secrets.FTP_USERNAME }}
         ftp-password: ${{ secrets.FTP_PASSWORD }}
-        remote-dir: / # Geben Sie hier das Zielverzeichnis auf dem Server an.
-        local-dir: ./ # Geben Sie hier das lokale Verzeichnis an, in dem sich die Dateien befinden, die Sie hochladen möchten.
+        #remote-dir: / # Geben Sie hier das Zielverzeichnis auf dem Server an.
+        #local-dir: ./ # Geben Sie hier das lokale Verzeichnis an, in dem sich die Dateien befinden, die Sie hochladen möchten.
         #exclude: 'node_modules' # Hier die Ausnahmen angeben (z.B. 'node_modules, secret_files')
 
