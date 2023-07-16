@@ -1,5 +1,8 @@
 # Alle Log-Dateien ignorieren
 *.log
 
+# evl. vorhandene zip Date ignoreren
+*.zip
+
 # Alle Unterordner im Ordner Bilder ignorieren
 assets/
