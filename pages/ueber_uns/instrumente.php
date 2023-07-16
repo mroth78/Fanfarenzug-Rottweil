@@ -1,1 +1,1 @@
-<h2>Instrumente</h2>
+<h2 class="mb-5">Instrumente</h2>

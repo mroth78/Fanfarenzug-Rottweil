@@ -1,4 +1,4 @@
-<h2>Links</h2>
+<h2 class="mb-5">Links</h2>
 
 <h4>Fanfarenzüge</h4>
     <ul>

@@ -1,4 +1,4 @@
-<h1>Presse</h1>
+<h2 class="mb-5">Presse</h2>
 
 <h4>Ansprechpartner</h4>
 <p>

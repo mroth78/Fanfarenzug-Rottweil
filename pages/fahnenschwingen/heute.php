@@ -1,4 +1,4 @@
-<h2>Fahnenschwingen heute</h2>
+<h2 class="mb-5">Fahnenschwingen heute</h2>
 
 <p>Der Fähnrich war für seinen Kameraden Orientierungspunkt in der Schlacht und die Fahne war Symbol für Einheit und Stärke der Truppe. </p>
 <p>Heute tritt das Militärische völlig in den Hintergrund und es überwiegt der sportliche und künstlerische Aspekt. <br>Ganze Choreographien kann man aus einzelnen Figuren zusammensetzen, deren Namen noch an die militärische Geschichte erinnern (Helmbusch, Harnisch, Schwert, Gürtel usw.) </p>

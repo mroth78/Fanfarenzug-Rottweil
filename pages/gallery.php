@@ -3,7 +3,7 @@
       {
             $year = $_GET['year'];
 
-            echo '<h2>Bilder aus dem Jahr ' . $year . '</h2>';
+            echo '<h2 class="mb-5">Bilder aus dem Jahr ' . $year . '</h2>';
               
             // Verzeichnis des Albums aus dem URL Parameter holen
             if (isset($_GET['album']))

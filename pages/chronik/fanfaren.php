@@ -1,4 +1,4 @@
-<h1>Geschichte der Fanfaren</h1>
+<h2 class="mb-5">Geschichte der Fanfaren</h2>
 
 <p>Die Geschichte der Fanfare (Naturtrompete) lässt sich bis in das 4. Jahrtausend vor Christus zurückverfolgen. Bei den ersten&nbsp; „Trompeten“ handelte es sich dabei um gerade Holz-, oder Bambus- Röhren ohne Mundstück und Trichter. Sie wurden wegen ihres weithin vernehmbaren Schalles als Signalinstrumente im zivilen, im militärischen und im religiösen Bereich eingesetzt. Im Krieg wurden mit ihrer Hilfe Kommandos übermittelt, die Kämpfer angefeuert und die Gegner in Furcht und Schrecken versetzt. Vielerorts galt die Trompete als heiliges Instrument. So soll zum Beispiel die ägyptische Trompete<i>, </i>welche etwa um 1400 v.Chr. geblasen wurde, von Gott Osiris erfunden worden sein. Auch bei den Assyrern und bei den Israeliten war die Trompete bekannt. Die israelitische Trompete war aus Silber und hieß <i>„Chazozra“</i>.
 </p>

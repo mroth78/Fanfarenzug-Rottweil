@@ -1,4 +1,4 @@
-<h2>Vorstand</h2>
+<h2 class="mb-5">Vorstand</h2>
 
 <div class="container-fluid">
     <div class="row">

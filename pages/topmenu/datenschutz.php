@@ -1,4 +1,4 @@
-<h2>Datenschutz</h2
+<h2 class="mb-5">Datenschutz</h2
 
 <p>Verantwortliche Stelle im Sinne der Datenschutzgesetze, insbesondere der EU-Datenschutzgrundverordnung (DSGVO), ist:</p>
 <p>Fanfarenzug Rottweil 1978 e.V.<br> Vorsitzende Klaus Günthner</p>

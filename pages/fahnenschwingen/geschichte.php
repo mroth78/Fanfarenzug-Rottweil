@@ -1,4 +1,4 @@
- <h2>Geschichte des Fahnenschwingens</h2>
+<h2 class="mb-5">Geschichte des Fahnenschwingens</h2>
   
 <p>In Italien findet man den ersten historischen Beweis des Fahnenschwingens schon im 6. Jahrhundert nach Chr. , als die römischen "Banderai" (Fahnenträger), dem päpstlichen Umzugvoranzugehen pflegten, wobei sie ihre Fahnen zum Zeichen des Jubels und der Freude schwenkten.</p>
 <p>Im darauf folgenden Mittelalter findet man das Fahnenschwingen, besonders bei religiösen, zivilen und militärischen Feierlichkeiten. Im 12. Jahrhundert erschienen erstmals die Wappen auf den Fahnen des Adels, der Gemeinden, der militärischen Scharen, der Kunst- und Handwerksgilden und der Stadtteile.</p>

@@ -1,1 +1,1 @@
-<h2>Fahnenschwinger</h2>
+<h2 class="mb-5">Fahnenschwinger</h2>

@@ -1,4 +1,4 @@
-<h2>Kontakt</h2>
+<h2 class="mb-5">Kontakt</h2>
 
 <h3>Postadresse:</h3>
 <p>Fanfarenzug Rottweil 1978 e.V.<br>Römerstraße 31<br>78628 Rottweil</p>

@@ -1,1 +1,1 @@
-<h2>Satzung</h2>
+<h2 class="mb-5">Satzung</h2>

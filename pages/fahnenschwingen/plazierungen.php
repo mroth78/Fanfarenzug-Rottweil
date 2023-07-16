@@ -1,4 +1,5 @@
-<h2>Plazierungen</h2>
+<h2 class="mb-5">Plazierungen</h2>
+
 <h3>Ute Thom (geb. Günthner)</h3>
 <table>
         <tbody>
