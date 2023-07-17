@@ -117,6 +117,42 @@ Oberes Menü mit Kontakt, Impressum, Datenschutz, Sitemap
 }
 
 /*--------------------------------------------------------
+Terminliste
+--------------------------------------------------------*/
+.list-header {
+  color: white;
+  background-color: #da251d;
+}
+
+.btn-more {
+  color: white;
+  background-color: #da251d;
+}
+
+.event-title {
+  text-align: left;
+}
+
+.column-date {
+  text-align: center;
+}
+
+.column-time {
+  text-align: left;
+}
+
+.column-details {
+  text-align: center;
+}
+
+/* Gestaltet den Metabereich (Druckausgabe) */
+.print
+{
+  padding: 10px;
+  text-align: right;
+}
+
+/*--------------------------------------------------------
 Seitenfuß mit Copyright Hinweis
 --------------------------------------------------------*/
 .pagefooter {  

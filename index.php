@@ -128,7 +128,7 @@
                     </li>
 
                     <!-- Termine -->
-                    <li><a href="#" title="Termine">Termine</a></li>
+                    <li><a href="index.php?page=termine" title="Termine">Termine</a></li>
 
                     <!-- Bilder -->
                     <li><a href="index.php?page=gallery&year=2010" title="Bilder">Bilder</a>
