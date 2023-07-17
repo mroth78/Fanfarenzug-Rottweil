@@ -99,15 +99,15 @@
                 $wholeDay = $event['Ganztaegig'];
                 if (empty($event['BisDatum']) || $event['VonDatum'] == $event['BisDatum'])
                 {
-                    echo '<td class="column-date col-2" scope="row">' . $event['VonDatum'] . '</td>'; 
+                    echo '<td class="column-date col-1" scope="row">' . $event['VonDatum'] . '</td>'; 
                 }                    
                 else
                 {
-                    echo '<td class="column-date col-2" scope="row">' . $event['VonDatum'] . ' - ' . $event['BisDatum'] . '</td>'; 
+                    echo '<td class="column-date col-1" scope="row">' . $event['VonDatum'] . '<br/> - <br/>' . $event['BisDatum'] . '</td>'; 
                 }
                 
                 // Ausgabe Zeitbereich
-                $timeOutput = '<td class="column-time col-2">' . $event['UhrzeitVon'] . ' - ' . $event['UhrzeitBis'] . '</td>';
+                $timeOutput = '<td class="column-time col-2">' . $event['UhrzeitVon'] . ' Uhr' . '<br/> - <br/>' . $event['UhrzeitBis'] . ' Uhr' . '</td>';
                 if ($wholeDay == true)
                 {
                     $timeOutput = '<td class="column-time col-2">' . 'Ganztägig' . '</td>';                        
