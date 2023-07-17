@@ -74,7 +74,7 @@
         echo '<thead class="list-header">';
         echo '<tr class="">';      
         echo '<th class="" scope="col">Datum</th>'; 
-        echo '<th class="" scope="col">Uhrzeit</th>';                        
+        echo '<th class="text-center" scope="col">Uhrzeit</th>';                        
         echo '<th class="" scope="col">Beschreibung</th>';        
         echo '</tr>';
         echo '</thead>';
@@ -84,14 +84,17 @@
         // JSON-Daten in ein assoziatives Array umwandeln
         $events = json_decode($json_data, true);
         
-        // Aktuelles Datum erhalten
-        $current_date = date('d.m.Y');            
+        // Aktuelles Datum erhalten        
+        $current_date = strtotime(date('d.m.Y'));
 
         // Tabelle mit den Terminelementen erstellen
         foreach ($events as $event) 
-        {                
-            // Datum und Uhrzeit des Termins prüfen
-            if ($event['VonDatum'] >= $current_date) 
+        {   
+            //$event_date = new DateTime($event["VonDatum"]);
+            $event_date = strtotime($event["VonDatum"]);            
+            
+            // Datum und Uhrzeit des Termins prüfen            
+            if($event_date >= $current_date)
             {                    
                 echo '<tr>';                    
                 
@@ -106,8 +109,13 @@
                     echo '<td class="column-date col-1" scope="row">' . $event['VonDatum'] . '<br/> - <br/>' . $event['BisDatum'] . '</td>'; 
                 }
                 
-                // Ausgabe Zeitbereich
+                // Ausgabe Zeitbereich                                                
                 $timeOutput = '<td class="column-time col-2">' . $event['UhrzeitVon'] . ' Uhr' . '<br/> - <br/>' . $event['UhrzeitBis'] . ' Uhr' . '</td>';
+                if (empty($event['UhrzeitBis']))
+                {
+                    $timeOutput = '<td class="column-time col-2">' . $event['UhrzeitVon'] . ' Uhr' . '<br/> - <br/>' . 'Open End' . '</td>';
+                }
+
                 if ($wholeDay == true)
                 {
                     $timeOutput = '<td class="column-time col-2">' . 'Ganztägig' . '</td>';                        
