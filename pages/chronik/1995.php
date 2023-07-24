@@ -1,0 +1,3 @@
+<h2 class="mb-5">Chronik aus dem Jahr 1995</h2>
+
+<p>Gründung einer Fahnenschwingergruppe durch Wolfgang Grundmann, Thomas Roland und Holger Schmid, die fort an bei jedem Auftritt des Fanfarenzugs vorne weg liefen. Beitritt der Fahnenschwinger-Gruppe in den Landesverband der Fahnenschwinger Baden-Württemberg (LFBW). Beim Landesverband für Spielmanns und Fanfarenzüge Baden-Württemberg bewarben wir uns um die Ausrichtung des Landestreffen 1998 und bekamen in der Jahreshauptversammlung den Zuspruch.</p>

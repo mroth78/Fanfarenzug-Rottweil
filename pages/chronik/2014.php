@@ -1,0 +1,17 @@
+<h2 class="mb-5">Chronik aus dem Jahr 2014</h2>
+
+<p>Die Mitgliederversammlung wurde am&nbsp;<strong>16.03.2014&nbsp;</strong>in der Gaststätte Liederhalle abgehalten.</p>
+<p>Gewählt wurde:</p>
+<p>– der stellvertretenden Vorsitzende Hans- Peter Bucher</p>
+<p>– Schriftführer Thomas Wiedemann</p>
+<p>– Pressewart Annette Karbstein</p>
+<p>– 2. Beirat Thomas Roland</p>
+<p>– Kassenprüfer Tobias Bucher, Julian Flaig.</p>
+<p><strong>Ehrungen Fanfarenzug</strong></p>
+<p><strong>Bronze</strong></p><ul> 	<li>Jessica Vogt</li> 	<li>Jasmin Diez</li> </ul><p><strong>Silber</strong></p><ul> 	<li>Angelika Flaig</li> 	<li>Jürgen Flaig</li> 	<li>Rafael Flaig</li> </ul><p><strong>Gold</strong></p><ul> 	<li>Sabrina Wiedemann</li> 	<li>Thomas Roland</li> </ul><p><strong>Landesverband der Fahnenschwinger BW</strong></p>
+<p><strong>Bronze Kranz</strong></p><ul> 	<li>Melissa Karbstein</li> 	<li>Lorena Karbstein</li> 	<li>Tatjana Ohnmacht</li> </ul><p><strong>Silber Kranz</strong></p><ul> 	<li>Georg Abele</li> </ul><p>Die Sportlerehrungen in der Stadthalle Rottweil fand am&nbsp;<strong>21.03.2014&nbsp;</strong>statt es wurde Vom Fanfarenzug geehrt:</p><ul> 	<li>Tatjana Ohnmacht Landesmeister 2013 Silber</li> 	<li>Jessica Vogt&nbsp; 4. Platz LM 2013 Silber</li> 	<li>Ute Günthner 5. Platz LM 2013 Silber</li> </ul><p><strong>&nbsp; &nbsp; &nbsp; Gruppen Synchron 3. Platz</strong></p><ul> 	<li>Melissa Karbstein &nbsp;LM 2013 Silber</li> 	<li>Monika Günthner &nbsp;&nbsp;LM 2013 Silber</li> 	<li>Lorena Karbstein LM 2013 Silber</li> 	<li>Georg Abele 4. Platz LM 2013 Silber&nbsp;&nbsp;</li> </ul><p>Der Ausflug des Fanfarenzugs Rottweil fand am&nbsp;<strong>27.04.2014&nbsp;</strong>statt. Die Reise ging zum Schloss Langenstein. Das ganze Jahr hindurch kann der Besucher des Fasnachtsmuseum im Schloss nacherleben was die Narren in der sogenannten „ fünften Jahreszeit „ treiben. Nach einer Stunde Narrenfiguren in farbenprächtigen Gewändern und Masken ging es weiter nach Mahlstetten. Zum Abschluss in der Lippachmühle. Der Fanfarenzug Rottweil folgte der Einladung des Fanfarenzugs Zell im Wiesental zu dessen Jubiläum.</p>
+<p>Eine gemischte Trommlergruppe und vier Fahnenschwinger machten sich am&nbsp;<strong>01.06.2014&nbsp;</strong>zum Festumzug durch die Straßen von Zell im Wiesental auf den Weg. In einen spannenden Wettkampf auf dem Sportplatz des SV Rust neben der Achterbahn „ Silberstar „ des Europaparks, setzte sich Jessica Vogt vom Fanfarenzug Rottweil bei der Fahnenhochwurf – Weltmeisterschaft durch.</p>
+<p>Am&nbsp;<strong>13.09.2014&nbsp;</strong>hat sie beim Hochwerfen der Fahne eine Höhe von 8 Meter erreicht und somit stand es fest, dass Jessica Vogt Weltmeisterin ist.</p>
+<p>Die Heimattage fanden am&nbsp;<strong>14.09.2014&nbsp;</strong>in Waiblingen statt. Der Fanfarenzug Rottweil wurde vertreten durch die frischgebackene Weltmeisterin in Fahnenhochwurf Jessica Vogt, ebenso dabei Melissa und Lorena Karbstein. Die drei jungen Fahnenschwingerinnen hatten die Ehre, an der Spitze des Festumzuges zu Laufen.</p>
+<p>Am Dienstag den&nbsp;<strong>04.11.2014&nbsp;</strong>wurde Jessica Vogt vom Oberbürgermeister Ralf Broß im Alten Rathaus empfangen. Eine Weltmeisterin haben wir in Rottweil nicht alle Tage. Herzlichen Glückwunsch zum&nbsp; großen Erfolg, sagte OB Broß. Jessica Vogt hatte als einzige Teilnehmerin im Wettbewerb die Höhe von acht Meter erreicht.</p>
+<p>Beim Weihnachtsmarkt hatte der Fanfarenzug vom&nbsp;<strong>13.12 bis 14.12.2014&nbsp;</strong>eine Weihnachtshütte. Glühwein, Kinderpunsch und Waffeln wurde angeboten.</p>

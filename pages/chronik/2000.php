@@ -1,0 +1,3 @@
+<h2 class="mb-5">Chronik aus dem Jahr 2000</h2>
+
+<p>Die Historische Bürgerwehr Rottweil feierte ihr 25. jähriges Vereinsjubiläum auf dem Bockshof, wo der Fanfarenzug die Organisation des Festzugs übernahm. Auch die Mithilfe beim Landsknechtlager wurde zugesagt und es entstand eine besondere Beziehung zu den Landsknechten Rottweil und Weingarten. Der komplette Fanfarenzug reiste nach Düsseldorf um die Deutsche Meisterschaft im Fahnenschwingen zu übernehmen, wo wir von Maria Derad als Delegation der Stadt Rottweil begleitet wurden.</p>

@@ -1,0 +1,6 @@
+<h2 class="mb-5">Chronik aus dem Jahr 2008</h2>
+
+<p>In der Mitgliederversammlung am 20. April 2008 wurde Daniel Flaig zum neuen musikalischen Leiter bestimmt. Von nun an steht bei den Proben und Auftritten Daniel an der Spitze des Fanfarenzuges Rottweil 1978 e.V.</p>
+<p>Anfang der Sommerferien 2008 veranstaltete der Fanfarenzug im Rahmen des Ferienzauber 2008 einen Fahnenschwinger Kurs 16 Kinder aus der Umgebung Rottweil hatten sich zum Kurs angemeldet.</p>
+<p>Am letzten Tag im August unternahmen die Mitglieder, Freunde und Bekannte des Fanfarenzug Rottweil einen Familientag. Hierzu reiste die bunt gemischte Gruppe an den Bodensee um bei Bodman die Marienschlucht zu bezwingen.</p>
+<p>Nachdem die Spielfähigkeit des Fanfarenzuges nun in Teilen wieder hergestellt worden ist, stand am<strong>&nbsp;14. September 2008</strong>&nbsp;anlässlich des 600 jährigen Bestehen der Schützengilde Rottweil ein Festumzug an. Leider spielte das Wetter nicht mit, so dass bei Dauerregen der Auftritt abgesagt werden musste. Von Seiten der Schützengilde wurde im Vorhinein ein Auftritt der Fahnenschwinger in der Stadionhalle bereits abgesagt.</p>

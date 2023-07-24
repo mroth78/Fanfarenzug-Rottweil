@@ -1,0 +1,3 @@
+<h2 class="mb-5">Chronik aus dem Jahr 1996</h2>
+
+<p>Der Mitgliederstand erreichte die 60 Personengrenze und begannen mit den jährlichen Auftritten im Europa-Park in Rust. Mit der Hist. Bürgerwehr ging es im September mit dem Flieger über den großen Teich und nahmen an der Steubenparade in New York teil. Bewerbung beim LFBW um die Ausrichtung des Landesverbandstages der Fahnenschwinger für 1998.</p>

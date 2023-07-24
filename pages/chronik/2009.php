@@ -1,0 +1,4 @@
+<h2 class="mb-5">Chronik aus dem Jahr 2009</h2>
+
+<p>Im&nbsp;<strong>Juni 2009&nbsp;</strong>führte uns der Weg zum Landesverbandstreffen nach Bad Buchau. Bei strahlendem Sonnenschein marschierten die teilnehmenden Spielmanns- und Fanfarenzüge vergnügt durch Bad Buchau. In Bad Buchau entstand das Gemeinschaftsbild, welches nun die Startseite unserer Website verschönert.</p>
+<p>Im&nbsp;<strong>Juli 2009&nbsp;</strong>ging es weiter nach Zell im Wiesenthal. Am&nbsp;<strong>10. Oktober 2009</strong>&nbsp;heirate unser Mitglied Jasmin Diez auf dem Dreifaltigkeitsberg. Den Abschluss der Vereinsaktivitäten bildeten das Ausbacken von Waffeln und der Glühweinverkauf beim Rottweiler Weihnachtsmarkt.</p>

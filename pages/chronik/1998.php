@@ -1,0 +1,3 @@
+<h2 class="mb-5">Chronik aus dem Jahr 1998</h2>
+
+<p>Die Großveranstaltung zweier Landesverbände, nämlich den Landesverbandstag der Fahnenschwinger Baden-Württemberg und das 41. Landestreffen der Spielmanns und Fanfarenzüge Baden-Württemberg, war für Rottweil eine gelungene Veranstaltung. Hier entsprang Oberbürgermeister Arnold der Gedanke, sich für die Heimattage in Rottweil zu bewerben, wo er dann 1999 von Ministerpräsident Erwin Teufel den Zuspruch bekam 2003 die Heimattage in Rottweil durch zu führen.</p>

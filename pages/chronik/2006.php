@@ -1,0 +1,5 @@
+<h2 class="mb-5">Chronik aus dem Jahr 2006</h2>
+
+<p>Zu Beginn des Jahres 2006 nahm der Fanfarenzug Rottweil 1978 e.V. Abschied von unserem Mitglied Heiko Cekan.</p>
+<p>Völlig unerwartet und viel zu früh schied Heiko Cekan nach schwerer Krankheit aus dem Leben. Wir werden ihm immer in guter Erinnerung behalten.</p>
+<p>Im September startete die erfahrene Gruppe der Fahnenschwinger bei der Deutschen Meisterschaft im fernen Glauchau. Unter starker Konkurrenz rollte&nbsp;<strong>Klaus Günthner</strong>&nbsp;das Feld von hinten auf, denn er war der letzte Starter seiner Gruppe. Mit hohem Tempo und eine konzentrierter Leistung setzte er sich mit 178 Punkten vor den bis dahin Erstplatzierten (171 P.) und konnte so erfolgreich den Titel&nbsp;<strong><em>Deutschen Meister 2006</em></strong>&nbsp;verteidigen.</p>

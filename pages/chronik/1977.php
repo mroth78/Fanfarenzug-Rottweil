@@ -1,0 +1,3 @@
+<h2 class="mb-5">Chronik aus dem Jahr 1977</h2>
+
+<p>Nach beidseitigem Einvernehmen ging es ab dem Sommer 1977 ans Instrumente besorgen und ich konnte bei der Narrhalla Rottweil sechs Landsknechtstrommeln und sechs Fanfaren ausleihen, mit der Auflage, dass wir den Fasnachts Ball mit Scherzabend in der Stadionhalle eröffnen. Einer zinslosen Leihgabe von 1000.- DM konnte ich noch zwei Marschtrommeln und fünf Fanfaren dazu kaufen. Nun hatte ich an Instrumenten einen Bestand von zusammen acht Trommeln elf Fanfaren sowie von Herrn Emil Frommer die Große Trommel mit Becken und es galt nun neue Mitglieder zu suchen. Innerhalb zwei Wochen hatten wir alle Instrumente vergeben und wir konnten mit der Ausbildung beginnen.</p>

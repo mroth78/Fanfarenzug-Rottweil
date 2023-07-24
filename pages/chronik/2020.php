@@ -1,0 +1,9 @@
+<h2 class="mb-5">Chronik aus dem Jahr 2020</h2>
+
+<p>Die geplante Sportlerehrung der Stadt Rottweil konnte aufgrund der Pandemie leider nicht am 20.03.2020 stattfinden.</p>
+<p>Die Mitgliederversammlung des Fanfarenzug Rottweil 1978 e. V. wurde im Gasthaus Hochbrücke am <strong>09. September 2020</strong> abgehalten. Bei den Wahlen wurden sämtliche Amtsinhaber in ihren Ämtern bestätigt. Gewählt wurde der Stv. Vorsitzende <strong>Hans-Peter Bucher</strong>, Schriftführer <strong>Thomas Wiedemann </strong>&nbsp;und als 2. Beirat <strong>Jessica Vogt </strong>sowie Pressewart <strong>Thomas Wiedemann.</strong></p>
+<p><strong>Die Vereinsehrung in Silber erhielt</strong></p><ul> 	<li>Joachim Karbstein</li> </ul><p><strong>Die Vereinsehrung in Gold bekam</strong></p><ul> 	<li>Sophie Wiedemann</li> </ul><p><strong>Die Vereinsehrung mit Goldkranz wurden an</strong></p><ul> 	<li>Thomas Wiedemann</li> 	<li>Gabriele Günthner</li> 	<li>Ulrike Rottler</li> </ul><p><strong>ausgehändigt.</strong></p>
+<p><strong>Sitara Geisse</strong> wurde für siebenjährige Tätigkeit vom Landesverband der Fahnenschwinger ausgezeichnet.</p>
+<p>Da es aufgrund von Corona keine Sportlerehrung gab hat die Stadt Rottweil die Ehrungen an die Vereine übergeben.</p>
+<p><strong>Weltmeister im Fahnenhochwurf in der Gruppe wurden</strong></p><ul> 	<li>Monika Günthner</li> 	<li>Jessica Vogt</li> 	<li>Lorena Karbstein</li> </ul><p>Aufgrund der Corona Auflagen konnten wir im Herbst nur noch 3-mal eine Probe im Freien stattfinden lassen.</p>
+<p>Der &nbsp;Kegelnachmittag in der Arche Zimmern o. R. sowie der Weihnachtsmarkt in Rottweil musste auf Grund der Corona- Pandemie ausfallen.</p>
