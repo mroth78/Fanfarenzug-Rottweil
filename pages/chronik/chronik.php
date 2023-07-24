@@ -1,183 +1,156 @@
 <h2 class="mb-5">Chronik</h2>
 
-<p>Bei einer Ausschusssitzung der Hist. Bürgerwehr im Gasthaus zum Goldenen Becher kam von Herrn Hartmuth Hummel der Vorschlag einen Spielmannszug zu gründen, mit dem Auftrag beim Neujahrsschießen die musikalische Umrahmung zu gestalten. Denn zum&nbsp;<strong>01.01.1976</strong>&nbsp;wurde hierfür der Spielmannszug des Turnvereins Rottweil engagiert und wurde von den Schützen und dem Publikum mit allgemeiner Begeisterung honoriert und fand großen Gefallen bei allen Beteiligten. So kam es vom damaligen 2.Vorstand der Hist. Bürgerwehr zu diesem Vorschlag und er bekam den Auftrag des Ausschusses, mit Klaus Günthner Verbindung auf zu nehmen, der Monate zuvor beim Spielmannszug des Turnvereins aufhörte. Nach beidseitigem Einvernehmen ging es ab dem&nbsp;<strong>Sommer 1977</strong>&nbsp;ans Instrumente besorgen und ich konnte bei der Narrhalla Rottweil sechs Landsknechtstrommeln und sechs Fanfaren ausleihen, mit der Auflage, dass wir den Fasnachts Ball mit Scherzabend in der Stadionhalle eröffnen. Einer zinslosen Leihgabe von 1000.- DM konnte ich noch zwei Marschtrommeln und fünf Fanfaren dazu kaufen. Nun hatte ich an Instrumenten einen Bestand von zusammen acht Trommeln elf Fanfaren sowie von Herrn Emil Frommer die Große Trommel mit Becken und es galt nun neue Mitglieder zu suchen. Innerhalb zwei Wochen hatten wir alle Instrumente vergeben und wir konnten mit der Ausbildung beginnen.</p>
-<p>Am&nbsp;<strong>27.Januar 1978</strong>&nbsp;trafen sich der Ausschuss der Hist. Bürgerwehr und Mitglieder des Fanfarenzugs im Gasthaus zum Goldenen Becher, es wurde eine Zusatzsatzung, die für eine neue Abteilung mit Selbstständigkeit ausgearbeitet. Am selben Abend wurde der Fanfarenzug gegründet und in die Vorstandschaft wurden folgende Mitglieder gewählt. Als&nbsp;<strong>1. Vorsitzender Klaus Günthner</strong>,&nbsp;<strong>2. Vorsitzender Lothar Hildebrandt</strong>,&nbsp;<strong>Schriftführer Günther Schweizer</strong>,&nbsp;<strong>Kassierer Gerold Schweizer</strong>, als&nbsp;<strong>Tambourmajor Klaus Günthner</strong>&nbsp;und als&nbsp;<strong>Beisitzer aktiv/passiv Sylvia Schönfeld</strong>&nbsp;und Alfred Schaumann wurden von den Anwesenden einstimmig bestellt. Die Ausbildung der Trommeln übernahm&nbsp;<strong>Lothar Hildebrandt</strong>&nbsp;und für Fanfaren&nbsp;<strong>Klaus Günthner</strong>, die Proberäume bekamen wir den Musikpavillon der Konrad-Witz-Schule und übten montags und freitags jeweils von 18.30 Uhr bis 20.00 Uhr.</p>
-<p>Unsere Premiere hatten wir schon vier Monate später bei einer Hochzeit von einem&nbsp; Bürgerwehrmitglied, verbunden mit einem musikalischem Fußmarsch vom Heilig Kreuz Münster zum Gasthaus Becher. Im Vereinsjahr&nbsp;<strong>1978</strong>&nbsp;hatten wir gleich fünf Auftritte und veranstalteten eine Bildersuchfahrt, dem Vorläufer des heutigen Bildersuchlaufs. Wir erfreuten auch in der Weihnachtszeit die Patienten von Spital, Kreiskrankenhaus und Rottenmünster, das wir bis zum Jahr&nbsp;<strong>1986</strong>wiederholten. Der Mitgliederstand im ersten Jahr betrug 26 Mitglieder.</p>
-<p>Schon im folgenden Jahr war der Kassenbestand so angewachsen, dass wir uns um eine Einheitskleidung bemühten. Über eine Elternversammlung beschlossen wir, dass der Fanfarenzug das Sticken der Wappen übernimmt und den Kauf der roten Bauernkittel die Eltern unserer Mitglieder übernahmen, denn im Jahr&nbsp;<strong>1979</strong>&nbsp;mussten wir auch schon die ausgeliehenen Instrumente der Narrhalla zurück geben, da sie im Sonnensaal gelagert werden mussten. Das Vereinsvermögen wurde mit neuen Instrumenten, hinzu kamen zehn Piccolo Flöten, sehr in Mitleidenschaft gezogen. Es änderte sich auch der Vereinsname in Spielmannszug. Im Vereinsjahr&nbsp;<strong>1980</strong>&nbsp;wurden weitere zehn Flöten angeschafft, da der Zulauf zum Spielmannszug enorm war. Die Mitgliederzahl stieg auf 48.</p>
-<p><strong>1986</strong>&nbsp;stieg die Mitgliederzahl über 50.&nbsp;<strong>1989</strong>&nbsp;Abschaffung der Flöten, Anschaffung von Landsknechtstrommeln und Fanfaren. Der neue Name Fanfarenzug wurde in der Abteilung HBW übernommen, gleichzeitig wurden schwarze Kniebundhosen zu den roten Bauernkittel angeschafft.</p>
-<p><strong>1991</strong>&nbsp;Erste Meinungsverschiedenheiten zwischen Schützen und FZ, offensichtlich ist ein gewisser Neid wegen unseren sehr gut laufenden Westernabende.</p>
-<p><strong>1992</strong>&nbsp;Der Ausschuss entschloss sich über die Anschaffung der heutigen Uniform, die fürs Erste auf 20 Stück beschränkt wurde.</p>
-<p><strong>1993</strong>&nbsp;wurden 3 Landknechtstrommeln durch einen Verkehrsunfall unreparierbar und mussten durch neue ersetzt werden, sonst gab es keine Schäden.</p>
-<p><strong>1994</strong>&nbsp;mussten wegen eines Mitgliederanstieges zehn neue Uniformen bei der Fa. Negele nachbestellt werden. Da wir die gestickte Bürgerwehrfahne immer weniger zu den Auftritten mit bekamen, haben sich&nbsp;<strong>Wolfgang Grundmann</strong>,&nbsp;<strong>Thomas Roland</strong>&nbsp;und&nbsp;<strong>Holger Schmidt</strong>&nbsp;über das Fahnenschwingen bei einem Landesverband Baden-Württemberg erkundigt.</p>
-<p><strong>1995</strong>&nbsp;Gründung einer Fahnenschwingergruppe durch die oben genannten Personen, die fort an bei jedem Auftritt des Fanfarenzugs vorne weg liefen. Beitritt der Fahnenschwinger-Gruppe in den LFBW (Landesverband für das Fahnenschwingen Baden-Württemberg). Beim Landesverband für Spielmanns und Fanfarenzüge Baden-Württemberg bewarben wir uns um die Ausrichtung des Landestreffen&nbsp;<strong>1998</strong>und bekamen in der Jahreshauptversammlung den Zuspruch.</p>
-<p><strong>1996</strong>&nbsp;Der Mitgliederstand erreichte die 60 Personengrenze und begannen mit den jährlichen Auftritten im Europa-Park in Rust. Mit der Hist. Bürgerwehr ging es im September mit dem Flieger über den großen Teich und nahmen an der Steubenparade in New York teil. Bewerbung beim LFBW um die Ausrichtung des Landesverbandstages der Fahnenschwinger für&nbsp;<strong>1998</strong>.</p>
-<p><strong>1998</strong>&nbsp;Die Großveranstaltung zweier Landesverbände nämlich den Landesverbandstag der Fahnenschwinger BW und das&nbsp;<strong>41. Landestreffen der Spielmanns und Fanfarenzüge Baden-Württemberg</strong>&nbsp;war für Rottweil eine gelungene Veranstaltung. Hier entsprang Oberbürgermeister Arnold der Gedanke, sich für die Heimattage in Rottweil zu bewerben, wo er dann&nbsp;<strong>1999</strong>&nbsp;von Ministerpräsident Erwin Teufel den Zuspruch bekam&nbsp;<strong>2003</strong>&nbsp;die Heimattage in Rottweil durch zu führen.</p>
-<p><strong>2000</strong>&nbsp;Die Hist. Bürgerwehr feierte ihr 25. jähriges Vereinsjubiläum auf dem Bockshof, wo der Fanfarenzug die Organisation des Festzugs übernahm. Auch die Mithilfe beim Landsknechtlager wurde zugesagt und es entstand eine besondere Beziehung zu den Landsknechten Rottweil und Weingarten. Der komplette Fanfarenzug reiste nach Düsseldorf um die Deutsche Meisterschaft im Fahnenschwingen zu übernehmen, wo wir von&nbsp;<strong>Maria Derad</strong>&nbsp;als Delegation der Stadt Rottweil begleitet wurden.</p>
-<p><strong>2001</strong>&nbsp;Der Fanfarenzug beteiligte sich beim Oberbürgermeister-Wechsel in Rottweil und man spielte bei der Verabschiedung des ausscheidenden Oberbürgermeisters&nbsp;<strong>Dr. Michael Arnold</strong>&nbsp;und zur Wahl des neuen&nbsp;<strong>Thomas J. Engeser</strong>. Bei den Landesmeisterschaften im Fahnenschwingen BW in Rastatt stellt der Fanfarenzug mit&nbsp;<strong>Wolfgang Grundmann</strong>&nbsp;den ersten Landesmeister.</p>
-<p><strong>2002</strong>&nbsp;veranstaltete der Fanfarenzug die&nbsp;<strong>Deutsche Meisterschaften im Fahnenschwingen</strong>&nbsp;in den Sportanlagen der Doppelsporthalle und stellten mit&nbsp;<strong>Monika Günthner</strong>&nbsp;eine Deutsche Meisterin. Als Ehrendelegation der Stadt Rottweil bekamen wir den Auftrag die Heimattage in Mosbach zu übernehmen, die&nbsp;<strong>2003</strong>&nbsp;in Rottweil stattfanden.&nbsp;<strong>Thomas Wiedemann</strong>&nbsp;und&nbsp;<strong>Klaus Günthner</strong>&nbsp;wurden in das Vorbereitungsteam von der Stadtverwaltung berufen, die in der Arbeitsgruppe 6 den Festzug und das Heimatfest vorbereiten mussten.</p>
-<p><strong>2003</strong>&nbsp;Nach jahrelanger Unterdrückung und ohne entgegengebrachter Respekt in der Hist. Bürgerwehr machte sich der Fanfarenzug am&nbsp;<strong>15.6.2003</strong>&nbsp;selbstständig und wird unter dem neuen Namen <strong>"Fanfarenzug Rottweil 1978 e.V."</strong>&nbsp;gegründet. Musikalisch haben wir einen Durchhänger und sind nicht spielfähig. Der Fanfarenzug bleibt aber trotzdem in der Tagespresse, das den guten Leistungen der Fahnenschwinger zu zuschreiben ist.&nbsp;<strong>Monika Günthner</strong>&nbsp;wurde im Fahnenhochwurf den Weltmeistertitel und ist Besitzerin des&nbsp;<strong>Weltrekords</strong>&nbsp;der Damen mit 6.10 Metern. Auch bei der Landesmeisterschaft in Bretten war&nbsp;<strong>Monika</strong>&nbsp;erfolgreich und erschwang sich den Titel des <strong>Landesmeisters</strong>. Die Fahnenschwinger waren auch mit Oberbürgermeister Engeser in der Partnerstadt L’Aquila und vertraten Rottweils-Fahnen bei der Perdonanza. Ansonsten war der Fanfarenzug mit der Umgestaltung ihrer Uniform und hier speziell dem Wappen beschäftigt, sowie neue Mitglieder zu werben, für eine musikalische Fortsetzung.</p>
-<p><strong>2004</strong>&nbsp;Die Mitgliederwerbung hat noch nicht den erhofften Erfolg gebracht wie man sich dies vorgestellt hatte, noch immer sind wir nicht spielfähig. Bei der Sportlerehrung traten die Fahnenschwinger mit einer Schwarzlicht-Show auf. Mit dem Fanfarencorps Blaufelden veranstalteten wir vor den Sommerferien ein gemeinsames Jugendzeltlager im Eschachtal (14 Spieler aus Blaufelden und 8 Mitglieder des Fanfarenzug Rottweil 1978). Zum Anschluss durften die Jugendliche ihre fünf eingeübten Musikstücke in der Fußgängerzone vor dem Rathaus zum Besten geben. Beim Landestraffen der Spielmanns- und Fanfarenzüge Baden-Württemberg wurde&nbsp;<strong>Klaus Günthner</strong>&nbsp;mit der silbernen Ehrennadel des Landesverbands geehrt. Bei den Deutschen Meisterschaften im Fahnenschwingen in Bad Urach erschwangen sich&nbsp;<strong>Georg Abele und Klaus Günthner</strong>&nbsp;den Titel des&nbsp;<strong>Deutschen Meisters</strong>. Besonders in der Klasse B3 waren die zwei Herren punktgleich mit 184 auf dem ersten Platz, wurden aber durch die Haltungsnoten so auf Platz 1 und zwei gesetzt.</p>
-<p><strong>2005&nbsp;</strong>Leider stieg auch im Jahre 2005 die Anzahl der aktiven Mitglieder nicht so weit an, dass wir wieder im alten Umfang spielfähig gewesen wären.&nbsp;</p>
-<p>Am 18. März 2005 traten unsere Fahnenschwinger mit einer tollen Nummer bei der Sportlerehrung der Stadt Rottweil in der Stadionhalle auf.&nbsp;<br> Am 21. Mai 2005 fand unser jährliche Mitgliederversammlung im Gasthaus zum Goldenen Becher in Rottweil statt.</p>
-<p>Durch die Mitgliederversammlung wurden</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; der erste Vorstand&nbsp;<strong>Karl Michael Wiedemann</strong></p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; die Beisitzerin der Fahnenschwinger&nbsp;<strong>Ute Günthner</strong></p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; der 1. Beisitzer&nbsp;<strong>Walter Wiedemann</strong></p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; und der musikalische Leiter&nbsp;<strong>Klaus Günthner</strong></p>
-<p><br> in deren Ämtern bestätigt.</p>
-<p>Ein neues Ehrenamt wurde durch</p><ul> 	<li><strong>Ulrike Rottler</strong>&nbsp;(Kassiererin)</li> 	<li>und&nbsp;<strong>Angelika Flaig</strong>&nbsp;(Pressewart)</li> </ul><p><br> übernommen.</p>
-<p>Traditionell wurde am 01. Mai am Wasserturm ein Zelt für vorbeikommende Wanderer zur Bewirtung aufgestellt. Auf Grund des schönen Wetters, war der Andrang jedoch nicht so gross wie in den Jahren zuvor.&nbsp;</p>
-<p>In den großen Ferien fand, dieses Mal in Blaufelden, das Jugendzeltlager statt. Auch an dieser Veranstaltung beteiligten sich Mitglieder des Fanfarenzug Rottweil 1978 e.V. Das Zeltlager wird sicherlich in besonderer Erinnerung bleiben, da sich Mensch und Tier gegen stürmische Gewalten sträuben mussten.&nbsp;<br> Am 08. Juli traten die aktiven Mitglieder des Fanfarenzuges Rottweil 1978 e.V. gemeinsam mit den Fahnenschwingern und dem "wilden Haufen" in Fluorn bei der Eröffnung des Stadtfestes auf. Aus diesem Anlaß lernten die aktiven Fanfarenspieler das Trommeln auf der Landsknechtstrommeln, um dem Festzug einen würden Rahmen zu geben.&nbsp;</p>
-<p><br> Erfolge konnten auch im Bereich der Fahnenschwinger verzeichnet werden.&nbsp;<br> Anlässlich der Baden-Württembergischen Landesmeisterschaften im Fahnenschwingen in Aulendorf konnte&nbsp;<strong>Klaus Günthner</strong>&nbsp;und&nbsp;<strong>Georg Abele</strong>&nbsp;die Titel der Landesmeister erringen.&nbsp;<br> Im Herbst, genauer gesagt am 08. Oktober organisierte Angelika Flaig ein Boule Turnier am Wasserturm. Bei strahlendem Sonnenschein wurde die Boule Kugeln recht genau an der "Sau" platziert. Auch im nächsten Jahr werden wir wieder solch ein Turnier durchführen.&nbsp;<br> Das Jahr neigte sich nun schon dem Ende zu und die Vorweihnachtszeit stand vor der Tür. Drei Tage&nbsp;<br> (11. - 13. Dezember) bewirteten wir einen Stand auf dem Rottweiler Weihnachtsmarkt. So wurde hier Glühwein, Kinderpunsch, Waffeln und Käsetoast feilgeboten.&nbsp;<br> Der Jahresabschluss fand in gemütlicher Runde beim Kegeln in der Arche in Zimmern o.R. am&nbsp;<br> 18. Dezember statt.&nbsp;<br> Die letzte Probe für das Jahr 2005 fand am 19. Dezember, wie gewohnt wieder in der Konrad-Witz-Schule statt.</p>
-<p><strong>2006</strong>&nbsp;Zu Beginn des Jahres 2006 nahm der Fanfarenzug Rottweil 1978 e.V. Abschied von unserem Mitglied Heiko Cekan. Völlig unerwartet und viel zu früh schied Heiko Cekan nach schwerer Krankheit aus dem Leben. Wir werden ihm immer in guter Erinnerung behalten.</p>
-<p>Im September startete die erfahrene Gruppe der Fahnenschwinger bei der Deutschen Meisterschaft im fernen Glauchau. Unter starker Konkurrenz rollte&nbsp;<strong>Klaus Günthner</strong>&nbsp;das Feld von hinten auf, denn er war der letzte Starter seiner Gruppe. Mit hohem Tempo und eine konzentrierter Leistung setzte er sich mit 178 Punkten vor den bis dahin Erstplatzierten (171 P.) und konnte so erfolgreich den Titel&nbsp;<strong><em>Deutschen Meister 2006</em></strong>&nbsp;verteidigen.</p>
-<p><strong>2007</strong>&nbsp;Über die Jahre hat es sich schon eingebürgert, dass die Mitglieder des Fanfarenzuges Rottweil 1978 e.V. das neue Vereinsjahr mit einem Ausflug zum Schlittschuhlaufen nach Villingen-Schwenningen beginnen. So fand sich am 07.01.2007 ein illustres Häufchen zusammen, welches sich auf die Eisfläche aufmachte und ein paar Stunden Spaß genießen konnte.</p>
-<p>Am&nbsp;<strong>24. Februar 2007</strong>&nbsp;fanden sich die Mitglieder des Fanfarenzug Rottweil 1978 e.V. in der Liederhalle zu Rottweil zur Mitgliederversammlung ein. Karl Michael Wiedemann und Ulrike Rottler erklärten in der Versammlung, dass sie für eine Amt im Fanfarenzug nicht mehr zur Verfügung stehen würden.</p>
-<p>In der Versammlung musste nun der Vorsitzende neu gewählt werden. Dieses Amt übernahm Klaus Günthner.</p>
-<p><strong>2008</strong>&nbsp;In der Mitgliederversammlung am 20. April 2008 wurde Daniel Flaig zum neuen musikalischen Leiter bestimmt. Von nun an steht bei den Proben und Auftritten Daniel an der Spitze des Fanfarenzuges Rottweil 1978 e.V.</p>
-<p>Anfang der Sommerferien 2008 veranstaltete der Fanfarenzug im Rahmen des Ferienzauber 2008 einen Fahnenschwinger Kurs. 16 Kinder aus der Umgebung Rottweil hatten sich zum Kurs angemeldet.</p>
-<p>Am letzten Tag im August unternahmen die Mitglieder, Freunde und Bekannte des Fanfarenzug Rottweil einen Familientag. Hierzu reiste die bunt gemischte Gruppe an den Bodensee um bei Bodman die Marienschlucht zu bezwingen.</p>
-<p>Nachdem die Spielfähigkeit des Fanfarenzuges nun in Teilen wieder hergestellt worden ist, stand am<strong>&nbsp;14. September 2008</strong>&nbsp;anlässlich des 600 jährigen Bestehen der Schützengilde Rottweil ein Festumzug an. Leider spielte das Wetter nicht mit, so dass bei Dauerregen der Auftritt abgesagt werden musste. Von Seiten der Schützengilde wurde im Vorhinein ein Auftritt der Fahnenschwinger in der Stadionhalle bereits abgesagt.</p>
-<p>Im&nbsp;<strong>Juni 2009&nbsp;</strong>führte uns der Weg zum Landesverbandstreffen nach Bad Buchau. Bei strahlendem Sonnenschein marschierten die teilnehmenden Spielmanns- und Fanfarenzüge vergnügt durch Bad Buchau. In Bad Buchau entstand das Gemeinschaftsbild, welches nun die Startseite unserer Website verschönert.</p>
-<p>Im&nbsp;<strong>Juli 2009&nbsp;</strong>ging es weiter nach Zell im Wiesenthal. Am&nbsp;<strong>10. Oktober 2009</strong>&nbsp;heirate unser Mitglied Jasmin Diez auf dem Dreifaltigkeitsberg. Den Abschluss der Vereinsaktivitäten bildeten das Ausbacken von Waffeln und der Glühweinverkauf beim Rottweiler Weihnachtsmarkt.</p>
-<p>Im&nbsp;<strong>April 2010&nbsp;</strong>machten wir uns zum&nbsp;50jährigen Jubiläum des Spielmanns und Fanfarenzug der Feuerwehr nach Markdorf am Bodensee auf. Neun Musiker und sechs Fahnenschwinger werteten den Festumzug durch Markdorf auch in kleiner Formation auf. Im Juli wieder einmal ein Auftritt in der Nähe. Anlässlich des Dorffestes in Lauffen spielten wir an mehreren Stellen auf. Am&nbsp;<strong>12. September 2010</strong>&nbsp;zeigten wir unser Können bei der Landesgartenschau in Villingen-Schwenningen. Nur mit acht Musikanten auf der Bühne unterhielten wir zünftig die anwesenden Gäste. So Mancher meinte, dass wir ganz schön Schneid hätten um mit so wenigen Leuten auf eine großen Bühne aufzutreten.</p>
-<p>Anlässlich der Sportlerehrung am&nbsp;<strong>25. März 2011</strong>&nbsp;wurden einige Fahnenschwinger mit Medaillen der Stadt Rottweil ausgezeichnet. Das Showschwingen auf der Bühne zeigte dem breiten Publikum, dass Fahnenschwingen anspruchsvoll ist. Am&nbsp;<strong>26. Juni</strong>&nbsp;nahmen wir am Fußball Gerümpelturnier St. Johann teil. Na ja, die ersten wurden wir nicht, jedoch aber auch nicht die Letzten. In den Halbzeitpausen warfen unsere Fahnenschwinger ihre Sportgeräte in den Himmel und tauschten so die Fußarbeit gegen Handfertigkeiten aus.</p>
-<p><strong>August 2011</strong>. Nachdem die Vorbereitungen abgeschlossen waren führte uns unser Jahresausflug nach Tübingen. Nach einer gelungenen Stadtführung, Stockerkahnfahren und Abschluss im Neckarmüller kehrten alle Teilnehmer wieder gut gelaunt nach Rottweil zurück. Die Fahnenschwinger schlugen sich im&nbsp;<strong>September</strong>&nbsp;anlässlich der Landesmeisterschaft im Fahnenschwingen recht tapfer. Drei Landsknechtstrommeln und sechs Fahnenschwinger begleiteten das Landesverbandstreffen in Konstanz. Trotz total verregnetem Wetter schlugen sich alle recht gut. Dies war der letzte spielfähige Auftritt. Nun kämpfen wir wieder erneut um interessierte Mitglieder.</p>
-<p>Im&nbsp;<strong>Juli 2012&nbsp;</strong>rafften wir uns nochmals auf und nahmen mit lediglich drei Landsknechtstrommeln und den Fahnenschwingern am Landesverbandstreffen der Spielmanns- und Fanfarenzüge Baden-Württemberg in Hemmingen teil. Im Sommer wurde die Werbetrommel kräftig gerührt. An zwei Wochenenden im&nbsp;<strong>Juni</strong>&nbsp;präsentierten wir uns auf dem Rottweiler Wochenmarkt. Hier fanden nette Gespräche statt, leider konnten wir hier kein weiteres Mitglied im Nachgang begrüßen. Am&nbsp;<strong>20. August</strong>, bei strahlendem Sonnenschein und guter Laune besetzten wir das Spaghetti Schiff in Konstanz und ließen uns die Sonne auf dem Schiff ins Gesicht brennen. Ein herrlicher Ausflug bei Top Wetter und super Laune. Das Losglück zur Teilnahme am Weihnachtsmarkt 2012 war uns dieses Jahr wieder hold. Zwei Tage lang wurde auf dem Weihnachtsmarkt Glühwein und Punsch, wie auch Waffeln und selbstgebackenes Gebäck verkauft. Am&nbsp;<strong>30. Dezember</strong>&nbsp;fand unser legendäres Abschlusskegeln in der Arche in Zimmern o.R. statt.</p>
-<p>&nbsp;</p>
-<p>Am&nbsp;<strong>23. Januar 2013</strong>&nbsp;wurde die neue Homepage online gestellt.</p>
-<p>&nbsp;</p>
-<p>Die Sportlerehrung in der Stadthalle Rottweil fand am <strong>15.03.2013 </strong>statt, es wurde vom Fanfarenzug geehrt:</p><ul> 	<li>Abele Georg 5. Platz Deutschen Meisterschaften im Fahnenschwingen,</li> 	<li>Ute Günthner 3. Platz im Gruppensynchron bei der Deutschen Meisterschaft im Fahnenschwingen,&nbsp;</li> 	<li>Lorena Karbstein 3. Platz im Gruppensynchron bei der Deutschen Meisterschaft im Fahnenschwingen,&nbsp;</li> 	<li>Melissa Karbstein 3. Platz im Gruppensynchron bei der Deutschen Meisterschaft im Fahnenschwingen,&nbsp;</li> 	<li>Tatjana Ohnmacht 3. Platz im Gruppensynchron bei der Deutschen Meisterschaft im Fahnenschwingen,&nbsp;</li> 	<li>Jessica Vogt 3. Platz im Gruppensynchron bei der Deutschen Meisterschaft im Fahnenschwingen,&nbsp;</li> 	<li>Jessica Vogt 4. Platz ( Damen offene Klasse ) bei den Weltmeisterschaften im Fahnenhochwerfen,&nbsp;</li> 	<li>Jessica Vogt 1. Platz Wettkampfgemeinschaft Konstanz/ Rottweil bei den Weltmeisterschaften im Fahnenhochwerfen.</li> </ul><p>&nbsp;</p>
-<p>Die Mitgliederversammlung wurde am <strong>17.03.2013</strong> im Gaststätte Liederhalle abgehalten.</p>
-<p>Gewählt wurde der Vorsitzender und Musikalischer Leiter Klaus Günthner,</p>
-<p>die Kassiererin Ute Günthner und</p>
-<p>1. Beirat Walter Wiedemann.</p>
-<p>&nbsp;</p>
-<p>Neu gewählt&nbsp; wurde</p>
-<p>Pressewart Tatjana Ohnmacht und</p>
-<p>Beisitzer Fahnenschwinger Monika Günthner.</p>
-<p>&nbsp;</p>
-<p>Ehrungen Fanfarenzug</p>
-<p>&nbsp;</p>
-<p><strong>Bronze</strong></p><ul> 	<li>Annette Karbstein</li> 	<li>Andre Lengfeld</li> 	<li>Jasmin Kunz</li> </ul><p><strong>Silber</strong></p><ul> 	<li>Julian Flaig</li> 	<li>Tobias Bucher</li> 	<li>Julia Duttenhöfer</li> 	<li>Arthur Duttenhöfer</li> </ul><p><strong>Gold</strong></p><ul> 	<li>Elvira Roland</li> 	<li>Silke Wiedemann</li> 	<li>Holger Schmid</li> </ul><p>&nbsp;</p>
-<p>Am <strong>01.05.2013 </strong>war am Wasserturm ein gelungenes 1. Mai Fest mit vielen Besuchern. Anschließend durften die Zuschauer mit den Fahnen auch mal ausprobieren; so wie das Fahnenhochwerfen das man nur mit Sicherheitsvorkehrungen üben darf. Eine schöne Einlage war das Showschwingen unserer Fahnenschwinger.</p>
-<p>&nbsp;</p>
-<p>Die Fahnenschwinger vom Fanfarenzug Rottweil hatten am <strong>02.06.2013</strong> bei der Hauptübung des Allgemeinen Deutschen Rottweiler – Klub e. V eine Fahnenschwinger – Show. Die Teilnehmer waren Lorena und Melissa Karbstein, Tatjana Ohnmacht sowie auch Jessica Vogt.</p>
-<p>&nbsp;</p>
-<p>Den 1. Auftritt im Schweizer Jahr war am <strong>03.06.2013 </strong>zur Eröffnung. Die Fahnenschwinger des Fanfarenzugs Rottweil hatten ihren Auftritt an der Kapellenkirche.</p>
-<p>&nbsp;</p>
-<p>Der 2. Auftritt war am <strong>05.06.2013 </strong>beim schönen Wetter mit den Alphornbläsern.</p>
-<p>&nbsp;</p>
-<p>Beim Landestreffen der Spielmanns- und Fanfarenzüge am <strong>09.06.2013</strong> in Blaufelden &nbsp;traten mit der Startnummer 31 der Fanfarenzug Rottweil mit vier Trommlern und fünf Fahnenschwingern auf.&nbsp;&nbsp;</p>
-<p>&nbsp;</p>
-<p>Bei der Hochzeit am <strong>15.06.2013 </strong>unseren Kassiererin Ute Thom, spielte der Fanfarenzug unter der Leitung vom Daniel Flaig auf. Die Fahnenschwinger des Verbandes standen Spalier beim Auszug aus der Kirche. Um dann anschließend mit den Brautpaar zusammen die Fahnen zu Schwingen.</p>
-<p>&nbsp;</p>
-<p>Am <strong>29.06.2013 </strong>fand in der BayArena in Leverkusen der 150. Geburtstag der Bayer AG statt. Die Fahnenschwinger der Niederburg Konstanz wurden für diesen Event gebucht. Die Fahnenschwingerkollegen aus Konstanz baten befreundete Fahnenschwinger Gruppen um Mithilfe bei diesem Event. Somit durften die Fahnenschwinger des Fanfarenzugs Rottweil ebenfalls daran teilnehmen. Gemeinsam mit Fahnenschwingern aus Konstanz, Rastatt, Bretten, Markdorf Sternfels, Bad Säckingen und aus dem Vogtland ging die Reise nach Leverkusen. Mit sehr viel Training und dem Koordinieren der Einzelnen Gruppen zu einen ganzen Show teil. Um Punkt 17:30 Uhr war es für die 37 Fahnenschwinger soweit und sie lieferten gemeinsam mit den Flying Drummers und zwei Trommlergruppen eine super Show ab. &nbsp;</p>
-<p>&nbsp;</p>
-<p>Nach einjähriger Pause lockte das Hegnebergfest am <strong>06.07.2013</strong> wieder zahlreiche Menschen in den Rottweiler Stadtteil. Dieses Mal hatten die Organisatoren vom Aktionskreis Hegneberg das Motto „ Schweiz „ gewählt. Auch die Bergwelt durfte nicht fehlen und so war auch die Heidi – Filmmusik zu hören. Die Fahnenschwinger des Fanfarenzugs Rottweil in Begleitung der Alphornbläser boten einen weiteren Höhenpunkt des Programmes.</p>
-<p>&nbsp;</p>
-<p>Bei der Hochzeit von Georg Abele am <strong>27.07.2013 </strong>standen die Fahnenschwinger Spalier. Anschließend wurde von ihnen ein Fahnenspiel dargeboten.</p>
-<p>&nbsp;</p>
-<p>Über den Ferienzauber fand am <strong>10.08.2013 </strong>eine Jungmusiker Werbung statt. Im Musikpavillon der Konrad – Witz – Schule waren 9 Jugendliche unter der Leitung vom Klaus Günthner dabei. Sie machten Musik mit Trommeln und Fanfaren. &nbsp;</p>
-<p>&nbsp;</p>
-<p>Die 9. Landesmeisterschaften in Fahnenschwingen fanden am <strong>30.08. bis 01.09.2013 </strong>in Rottweil statt. Von Tauberbischofsheim im Norden bis Konstanz im Süden nahmen Mitglieder der 11 teilnehmenden Vereine teil. Tatjana Ohnmacht von den Rottweiler Fahnenschwingern machte dort den 1. Platz. Bei den Gruppensynchronschwingen belegten 6 Rottweilerinnen den 3. Platz.</p>
-<p>&nbsp;</p>
-<p>Der letzte Auftritt im Schweizer Jahr fand am <strong>20.10.2013 </strong>statt. Das Wetter war windig und regnerisch. Dies hinderte die Fahnenschwinger jedoch nicht davon und sie legte eine gelungene Vorstellung hin.</p>
-<p>&nbsp;</p>
-<p>Die Mitgliederversammlung wurde am <strong>16.03.2014 </strong>in der Gaststätte Liederhalle abgehalten.</p>
-<p>&nbsp;</p>
-<p>Gewählt wurde:</p>
-<p>– der stellvertretenden Vorsitzende Hans- Peter Bucher</p>
-<p>– Schriftführer Thomas Wiedemann</p>
-<p>– Pressewart Annette Karbstein</p>
-<p>– 2. Beirat Thomas Roland</p>
-<p>– Kassenprüfer Tobias Bucher, Julian Flaig.</p>
-<p>&nbsp;</p>
-<p><strong>Ehrungen Fanfarenzug</strong></p>
-<p><strong>Bronze</strong></p><ul> 	<li>Jessica Vogt</li> 	<li>Jasmin Diez</li> </ul><p><strong>Silber</strong></p><ul> 	<li>Angelika Flaig</li> 	<li>Jürgen Flaig</li> 	<li>Rafael Flaig</li> </ul><p><strong>Gold</strong></p><ul> 	<li>Sabrina Wiedemann</li> 	<li>Thomas Roland</li> </ul><p>&nbsp;</p>
-<p><strong>Landesverband der Fahnenschwinger BW</strong></p>
-<p><strong>Bronze Kranz</strong></p><ul> 	<li>Melissa Karbstein</li> 	<li>Lorena Karbstein</li> 	<li>Tatjana Ohnmacht</li> </ul><p><strong>Silber Kranz</strong></p><ul> 	<li>Georg Abele</li> </ul><p>&nbsp;</p>
-<p>Die Sportlerehrungen in der Stadthalle Rottweil fand am <strong>21.03.2014 </strong>statt es wurde Vom Fanfarenzug geehrt:</p><ul> 	<li>Tatjana Ohnmacht Landesmeister 2013 Silber</li> 	<li>Jessica Vogt&nbsp; 4. Platz LM 2013 Silber</li> 	<li>Ute Günthner 5. Platz LM 2013 Silber</li> </ul><p><strong>&nbsp; &nbsp; &nbsp; Gruppen Synchron 3. Platz</strong></p><ul> 	<li>Melissa Karbstein &nbsp;LM 2013 Silber</li> 	<li>Monika Günthner &nbsp;&nbsp;LM 2013 Silber</li> 	<li>Lorena Karbstein LM 2013 Silber</li> 	<li>Georg Abele 4. Platz LM 2013 Silber&nbsp;&nbsp;</li> </ul><p>&nbsp;</p>
-<p>Der Ausflug des Fanfarenzugs Rottweil fand am <strong>27.04.2014 </strong>statt. Die Reise ging zum Schloss Langenstein. Das ganze Jahr hindurch kann der Besucher des Fasnachtsmuseum im Schloss nacherleben was die Narren in der sogenannten „ fünften Jahreszeit „ treiben. Nach einer Stunde Narrenfiguren in farbenprächtigen Gewändern und Masken ging es weiter nach Mahlstetten. Zum Abschluss in der Lippachmühle. Der Fanfarenzug Rottweil folgte der Einladung des Fanfarenzugs Zell im Wiesental zu dessen Jubiläum.</p>
-<p>&nbsp;</p>
-<p>Eine gemischte Trommlergruppe und vier Fahnenschwinger machten sich am <strong>01.06.2014 </strong>zum Festumzug durch die Straßen von Zell im Wiesental auf den Weg. In einen spannenden Wettkampf auf dem Sportplatz des SV Rust neben der Achterbahn „ Silberstar „ des Europaparks, setzte sich Jessica Vogt vom Fanfarenzug Rottweil bei der Fahnenhochwurf – Weltmeisterschaft durch.</p>
-<p>&nbsp;</p>
-<p>Am <strong>13.09.2014 </strong>hat sie beim Hochwerfen der Fahne eine Höhe von 8 Meter erreicht und somit stand es fest, dass Jessica Vogt Weltmeisterin ist.</p>
-<p>&nbsp;</p>
-<p>Die Heimattage fanden am <strong>14.09.2014 </strong>in Waiblingen statt. Der Fanfarenzug Rottweil wurde vertreten durch die frischgebackene Weltmeisterin in Fahnenhochwurf Jessica Vogt, ebenso dabei Melissa und Lorena Karbstein. Die drei jungen Fahnenschwingerinnen hatten die Ehre, an der Spitze des Festumzuges zu Laufen.</p>
-<p>&nbsp;</p>
-<p>Am Dienstag den <strong>04.11.2014 </strong>wurde Jessica Vogt vom Oberbürgermeister Ralf Broß im Alten Rathaus empfangen. Eine Weltmeisterin haben wir in Rottweil nicht alle Tage. Herzlichen Glückwunsch zum&nbsp; großen Erfolg, sagte OB Broß. Jessica Vogt hatte als einzige Teilnehmerin im Wettbewerb die Höhe von acht Meter erreicht.</p>
-<p>&nbsp;</p>
-<p>Beim Weihnachtsmarkt hatte der Fanfarenzug vom <strong>13.12 bis 14.12.2014 </strong>eine Weihnachtshütte. Glühwein, Kinderpunsch und Waffeln wurde angeboten.</p>
-<p>Die Sportlerehrung der Stadt Rottweil fand am <strong>21.03.2015</strong> in der Stadthalle statt. Geehrt wurde Jessica Vogt, sie wurde im Fahnenhochwurf 2014 <strong>Weltmeister </strong>und bekam viel Applaus.</p>
-<p>&nbsp;</p>
-<p>Die Mitgliederversammlung des Fanfarenzugs Rottweil 1978 e.V wurde in der Traube am <strong>29.03.2015 </strong>abgehalten. Bei den Wahlen wurden sämtliche Amtsinhaber in ihren Ämtern bestätigt.</p>
-<p>Vorsitzender und Musikalischer Leiter wurde</p><ul> 	<li>Klaus Günthner,</li> 	<li>die Kassiererin Ute Thom sowie</li> 	<li>Beisitzer Fahnenschwinger Monika Günthner und</li> 	<li>1. Beirat Walter Wiedemann.</li> </ul><p>&nbsp;</p>
-<p><strong>Ehrungen:</strong><br> <strong>Vereinsehrungen in Bronze</strong>:<br> Marina Giacone – Lalita Giacone – Joachim Karbstein</p>
-<p><strong>Vereinsehrungen in Silber:</strong><br> Eberhard Ruh – Jürgen Wöhr – Marco Wöhr</p>
-<p>&nbsp;</p>
-<p><strong>Landesverband der Spielmanns-und Fanfarenzüge</strong><br> <strong>LVFZ Ehrennadel in Bronze:</strong><br> Tobias Bucher</p>
-<p>&nbsp;</p>
-<p><strong>LVFZ Ehrennadel in Silber:</strong><br> Birgit Schnellbach</p>
-<p>&nbsp;</p>
-<p>Nochmal wurde Jessica Vogt als Weltmeister im Fahnenhochwurf geehrt und bekam vom Vorsitzenden Klaus Günthner als Anerkennung den gravierten Fahnenstock überreicht.</p>
-<p>&nbsp;</p>
-<p>Der Fanfarenzug und die Fahnenschwinger eröffneten am <strong>12.09.2015</strong> das &nbsp;Rottweiler Stadtfest. Zugleich fanden die Weltmeisterschaften im Fahnenhochwurf in Bruchsal Stadt, dabei hat Jessica Vogt den dritten Platz gesichert. &nbsp;</p>
-<p>&nbsp;</p>
-<p>Am Weihnachtsmarkt&nbsp; hatte der Fanfarenzug&nbsp; vom <strong>12.12.2015 bis 13.12.2015 </strong>eine Weihnachtshütte. Glühwein – Kinderpunsch und Waffel wurden angeboten.</p>
-<p>&nbsp;</p>
-<p>Zum Jahresabschluss trafen sich Mitglieder vom Fanfarenzug zum Kegeln am <strong>27.12.2015 </strong>&nbsp;in der Arche in Zimmern o.R.</p>
-<p>&nbsp;</p>
-<p>Die Mitgliederversammlung wurde am <strong>13.03.2016</strong> im Gasthaus Hochbrücke abgehalten.</p>
-<p>Gewählt wurde der</p><ul> 	<li>stellvertretende Vorsitzende Hans- Peter Bucher</li> 	<li>Schriftführer Thomas Wiedemann</li> 	<li>Pressewart Annette Karbstein</li> 	<li>neu 1. Beirat Thomas Roland</li> 	<li>2. Beirat Daniel Enzmann.</li> </ul><p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>Ehrungen Fanfarenzug</strong><br> <strong>Silber</strong></p><ul> 	<li>Hans-Peter Bucher</li> </ul><p>&nbsp;</p>
-<p><strong>Gold</strong></p><ul> 	<li>Rebecca Wiedemann</li> 	<li>Ursula Grundmann</li> 	<li>Corina Korenjak</li> </ul><p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>Ehrungen Landesverband der Spielmanns-und Fanfarenzüge</strong><br> <strong>Bronze</strong></p><ul> 	<li>Hans-Peter Bucher</li> </ul><p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>Die Sportlerehrungen in der Stadthalle Rottweil fand am <strong>18.03.2016 </strong>statt, es wurde Jessica Vogt zum 3. Platz in Fahnenhochwurf geehrt, sie bekam die Goldmedaille.</p>
-<p>&nbsp;</p>
-<p>Die Landesmeisterschaft im Fahnenhochwurf wurde am <strong>26.05.2016 </strong>in Bretten abgehalten. Zum ersten Mal mit dabei war die zehnjährige Sitara Geisse, die in der Altersklasse auf Anhieb den zweiten Platz erreichte das ist die Silbermedaille. Lorena Karbstein machte den vierten Platz. Monika Günthner belegte den achten Platz.</p>
-<p>Bei der Mannschaftswertung gewann Rottweil/Rastatt den dritten Platz.</p>
-<p>&nbsp;</p>
-<p>Ein Ereignis war am <strong>25.06.2016 </strong>die kirchliche Trauung von Judith und Daniel Flaig in der Kapellenkirche Rottweil. Die Fahnenschwinger standen beim Auszug aus der Kirche Spalier, für die musikalische Umrahmung sorgten Fanfaren mit Trommlern.&nbsp;</p>
-<p>&nbsp;</p>
-<p>An der Eröffnungsfeier zur 54. Fußball-Bundesligasaision in der Münchner Allianz Arena, hatten die Fahnenschwinger aus Rottweil mit Freunden aus Bretten-Rastatt-Bad Urach-Niederburg Konstanz am <strong>26.08.2016</strong> ihren &nbsp;Auftritt. Die Fahne vom TSG 1899 Hoffenheim wurde von Lorena Karbstein geschwungen. Sie lieferten einen beeindruckenden Auftritt vor ca. 75000 Zuschauern.</p>
-<p>&nbsp;</p>
-<p>Am <strong>10.09.2016</strong> hatten die Rottweiler Fahnenschwinger bereits den nächsten Termin, die 15. Weltmeisterschaft im Fahnenhochwurf. Lorena&nbsp; Karbstein belegte den 2. Platz, Jessica Vogt erreichte den 5. Platz. Für die Mannschaftwertung holte sich das Team Monika Günthner, Lorena Karbstein und Jessica Vogt den 1. Platz.</p>
-<p>&nbsp;</p>
-<p>Den Landesfestumzug der Heimattage am <strong>11.09.2016 </strong>in Bad Mergentheim, führten Monika Günthner und Jessica Vogt mit den Städtefahnen Rottweil-Ulm an. Lorena Karbstein mit der Gruppe des Landesverbands der Fahnenschwinger Baden-Württemberg e.V.</p>
-<p>&nbsp;</p>
-<p>Der Vereinsausflug&nbsp; am <strong>0</strong><strong>1.10.2016 </strong>führte nach Sigmaringen, mit&nbsp; Besichtigung des Schlosses und anschließendem Mittagsessen. Danach Zeit zur freien Gestaltung.</p>
-<p>&nbsp;</p>
-<p>Die letzte Veranstaltung für dieses Jahr war der Rottweiler Weihnachtsmarkt. Dort hatten wir am <strong>10. und 11.12.2016</strong> einen Stand in der oberen Hauptstrasse. Es gab Glühwein, Kinderpunsch und Waffeln, aber der Renner war wie immer unsere Bretle.</p>
-<p>Am Sonntag den <strong>08.01.2017 </strong>fand das Neujahrs – Kegeln in der Arche in Zimmern ob Rottweil statt.</p>
-<p>&nbsp;</p>
-<p>Die Sportlerehrung der Stadt Rottweil fand am <strong>17.03.2017 </strong>in der Stadthalle statt. Sitara Geisse belegte Platz 2 bei den Süddeutschen – Meisterschaften im Fahnenhochwurf mit 4,40 Meter, dafür bekam sie die Gold Medaille. Jessica Vogt, Monika Günthner und Lorena Karbstein belegten den 1. Platz in der Gruppe bei der Weltmeisterschaft im Fahnenhochwurf in Mergentheim,&nbsp; Dafür gab es Gold.</p>
-<p>&nbsp;</p>
-<p>Die Mitgliederversammlung des Landesverbands der Spielmanns- und Fanfarenzüge BW fand am <strong>22.04.2017 </strong>in Nusplingen statt. Es waren vom Fanfarenzug Rottweil Klaus Günthner und Hans-Peter Bucher anwesend.&nbsp; &nbsp;&nbsp;</p>
-<p>&nbsp;</p>
-<p>Die Mitgliederversammlung des Fanfarenzugs Rottweil 1978 e.V. wurde im Gasthaus Hochbrücke am <strong>23.04.2017 </strong>abgehalten.</p>
-<p>Bei den Wahlen wurden sämtliche Amtsinhaber in ihren Ämtern bestätigt und neu gewählt.</p>
-<p>&nbsp;</p>
-<p>Vorsitzender und Musikalischer Leiter wurde Klaus Günthner,</p>
-<p>die Kassiererin Ute Thom sowie</p>
-<p>Beisitzer der Fahnenschwinger Monika Günthner und</p>
-<p>1. Beirat Thomas Roland.</p>
-<p>&nbsp;</p>
-<p>Die Vereinsehrungen in Bronze:</p><ul> 	<li>Timo Flaig</li> </ul><p>&nbsp;</p>
-<p><strong>Die Vereinsehrungen in Silber: </strong></p><ul> 	<li>Lorena Karbstein</li> 	<li>Melissa Karbstein</li> 	<li>Christa Hauptmann</li> 	<li>Daniel Flaig</li> </ul><p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>Landesverband der Fahnenschwinger</strong><br> Abzeichen in Bronze:</p><ul> 	<li>Jessica Vogt</li> </ul><p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>Abzeichen in Silber:</strong></p><ul> 	<li>Ute Thom</li> 	<li>Monika Günthner</li> 	<li>Georg Abele</li> </ul><p>&nbsp;</p>
-<p>Mit kleiner Besetzung traten die Rottweiler Fahnenschwingerinnen bei den Deutschen Meisterschaften vom <strong>01.09. bis 03.09.2017 </strong>in Bad Urach an. Im Damen Einzeln hatte Ute Thom den 10. Platz, Jessica Vogt den 12. Platz und Monika Günthner den 13. Platz belegt. Bei der Mannschaftswertung erreichten sie den 3. Platz und nehmen der Pokal für den 3. Platz in Empfang.</p>
-<p>&nbsp;</p>
-<p>Der Regen hatte ein Einsehen, als der Fanfarenzug am <strong>09.09.2017 </strong>an der Eröffnung des Stadtfestes mitwirkte. Die Fahnenschwingerinnen begeisterten die Zuschauer mit ihren Schwüngen und Würfen zu den Klängen der Landsknechtstrommeln.</p>
-<p>&nbsp;</p>
-<p>Viel Zeit zum Feiern blieb ihnen jedoch nicht, da gleich am Sonntag <strong>10.09.2017 </strong>&nbsp;der Landesfestumzug der Heimattage in Karlsruhe auf dem Programm stand. Monika Günthner, Jessica Vogt und Lorena Karbstein führten den Umzug mit Städtefahnen der vergangenen Heimattageorte an, während Melissa Karbstein die Gruppe der Fahnenschwinger des Landesverbandes verstärkte.&nbsp;</p>
-<p>&nbsp;</p>
-<p>Anlässlich der Eröffnung des Thyssen-Krupp Testturm in Rottweil am Wochenende <strong>07./08.10.2017 </strong>spielten drei Fanfarenspieler vom Schwarzen Tor aus zwei kleine Musikstücke. Zum 1. Gang des Festmahles an der langen Tafel erklangen weit über der Stadt Fanfarentöne. Vor dem 2. Gang &nbsp;spielten die Musiker erneut vom Schwarzen Tor aus in Richtung Innenstadt.</p>
-<p>&nbsp;</p>
-<p>Am Weihnachtsmarkt hatte dann der Fanfarenzug am <strong>16.12. und 17.12.2017 </strong>eine Weihnachtshütte. Es gab Glühwein, Kinderpunsch und Waffeln, aber der Renner war wie immer unsere Bretle. &nbsp;</p>
+<div class="row">
+    <div class="col-md-6 offset-md-3">        
+        <ul class="timeline">
+            <li>
+                <a href="index.php?page=chronik/2022">2022 - Stabführerlehrgang und Weltmeisterschaften.</a>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque scelerisque diam non nisi semper, et elementum lorem ornare. Maecenas placerat facilisis mollis. Duis sagittis ligula in sodales vehicula....</p>
+            </li>
+            <li>
+                <a href="index.php?page=chronik/2021">2021 - Endlich wieder Proben</a>                
+                <p>Curabitur purus sem, malesuada eu luctus eget, suscipit sed turpis. Nam pellentesque felis vitae justo accumsan, sed semper nisi sollicitudin...</p>
+            </li>
+            <li>
+                <a href="index.php?page=chronik/2020">2020 - Weltmeister im Fahnenhochwurf </a>                
+                <p>Fusce ullamcorper ligula sit amet quam accumsan aliquet. Sed nulla odio, tincidunt vitae nunc vitae, mollis pharetra velit. Sed nec tempor nibh...</p>
+            </li>
+            <li>
+                <a href="index.php?page=chronik/2019">2019</a>                
+                <p>Fusce ullamcorper ligula sit amet quam accumsan aliquet. Sed nulla odio, tincidunt vitae nunc vitae, mollis pharetra velit. Sed nec tempor nibh...</p>
+            </li>
+            <li>
+                <a href="index.php?page=chronik/2018">2018</a>                
+                <p>Fusce ullamcorper ligula sit amet quam accumsan aliquet. Sed nulla odio, tincidunt vitae nunc vitae, mollis pharetra velit. Sed nec tempor nibh...</p>
+            </li>
+            <li>
+                <a href="index.php?page=chronik/2017">2017</a>
+                <p>Fusce ullamcorper ligula sit amet quam accumsan aliquet. Sed nulla odio, tincidunt vitae nunc vitae, mollis pharetra velit. Sed nec tempor nibh...</p>
+            </li>
+            <li>
+                <a href="index.php?page=chronik/2016">2016</a>                
+                <p>Fusce ullamcorper ligula sit amet quam accumsan aliquet. Sed nulla odio, tincidunt vitae nunc vitae, mollis pharetra velit. Sed nec tempor nibh...</p>
+            </li>
+            <li>
+                <a href="index.php?page=chronik/2015">2015</a>
+                <p>Fusce ullamcorper ligula sit amet quam accumsan aliquet. Sed nulla odio, tincidunt vitae nunc vitae, mollis pharetra velit. Sed nec tempor nibh...</p>
+            </li>
+            <li>
+                <a href="index.php?page=chronik/2014">2014</a>
+                <p>Fusce ullamcorper ligula sit amet quam accumsan aliquet. Sed nulla odio, tincidunt vitae nunc vitae, mollis pharetra velit. Sed nec tempor nibh...</p>
+            </li>
+            <li>
+                <a href="index.php?page=chronik/2013">2013</a>
+                <p>Fusce ullamcorper ligula sit amet quam accumsan aliquet. Sed nulla odio, tincidunt vitae nunc vitae, mollis pharetra velit. Sed nec tempor nibh...</p>
+            </li>
+            <li>
+                <a href="index.php?page=chronik/2012">2012</a>
+                <p>Fusce ullamcorper ligula sit amet quam accumsan aliquet. Sed nulla odio, tincidunt vitae nunc vitae, mollis pharetra velit. Sed nec tempor nibh...</p>
+            </li>
+            <li>
+                <a href="index.php?page=chronik/2011">2011</a>
+                <p>Fusce ullamcorper ligula sit amet quam accumsan aliquet. Sed nulla odio, tincidunt vitae nunc vitae, mollis pharetra velit. Sed nec tempor nibh...</p>
+            </li>
+            <li>
+                <a href="index.php?page=chronik/2010">2010</a>
+                <p>Fusce ullamcorper ligula sit amet quam accumsan aliquet. Sed nulla odio, tincidunt vitae nunc vitae, mollis pharetra velit. Sed nec tempor nibh...</p>
+            </li>
+            <li>
+                <a href="index.php?page=chronik/2009">2009</a>
+                <p>Fusce ullamcorper ligula sit amet quam accumsan aliquet. Sed nulla odio, tincidunt vitae nunc vitae, mollis pharetra velit. Sed nec tempor nibh...</p>
+            </li>
+            <li>
+                <a href="index.php?page=chronik/2008">2008</a>
+                <p>Fusce ullamcorper ligula sit amet quam accumsan aliquet. Sed nulla odio, tincidunt vitae nunc vitae, mollis pharetra velit. Sed nec tempor nibh...</p>
+            </li>
+            <li>
+                <a href="index.php?page=chronik/2007">2007</a>
+                <p>Fusce ullamcorper ligula sit amet quam accumsan aliquet. Sed nulla odio, tincidunt vitae nunc vitae, mollis pharetra velit. Sed nec tempor nibh...</p>
+            </li>
+            <li>
+                <a href="index.php?page=chronik/2006">2006</a>
+                <p>Fusce ullamcorper ligula sit amet quam accumsan aliquet. Sed nulla odio, tincidunt vitae nunc vitae, mollis pharetra velit. Sed nec tempor nibh...</p>
+            </li>
+            <li>
+                <a href="index.php?page=chronik/2005">2005</a>
+                <p>Fusce ullamcorper ligula sit amet quam accumsan aliquet. Sed nulla odio, tincidunt vitae nunc vitae, mollis pharetra velit. Sed nec tempor nibh...</p>
+            </li>
+            <li>
+                <a href="index.php?page=chronik/2004">2004</a>
+                <p>Fusce ullamcorper ligula sit amet quam accumsan aliquet. Sed nulla odio, tincidunt vitae nunc vitae, mollis pharetra velit. Sed nec tempor nibh...</p>
+            </li>
+            <li>
+                <a href="index.php?page=chronik/2003">2003</a>
+                <p>Fusce ullamcorper ligula sit amet quam accumsan aliquet. Sed nulla odio, tincidunt vitae nunc vitae, mollis pharetra velit. Sed nec tempor nibh...</p>
+            </li>
+            <li>
+                <a href="index.php?page=chronik/2002">2002</a>
+                <p>Fusce ullamcorper ligula sit amet quam accumsan aliquet. Sed nulla odio, tincidunt vitae nunc vitae, mollis pharetra velit. Sed nec tempor nibh...</p>
+            </li>
+            <li>
+                <a href="index.php?page=chronik/2001">2001</a>
+                <p>Fusce ullamcorper ligula sit amet quam accumsan aliquet. Sed nulla odio, tincidunt vitae nunc vitae, mollis pharetra velit. Sed nec tempor nibh...</p>
+            </li>
+            <li>
+                <a href="index.php?page=chronik/2000">2000</a>
+                <p>Fusce ullamcorper ligula sit amet quam accumsan aliquet. Sed nulla odio, tincidunt vitae nunc vitae, mollis pharetra velit. Sed nec tempor nibh...</p>
+            </li>
+            <li>
+                <a href="index.php?page=chronik/1998">1998</a>
+                <p>Fusce ullamcorper ligula sit amet quam accumsan aliquet. Sed nulla odio, tincidunt vitae nunc vitae, mollis pharetra velit. Sed nec tempor nibh...</p>
+            </li>
+            <li>
+                <a href="index.php?page=chronik/1996">1996</a>
+                <p>Fusce ullamcorper ligula sit amet quam accumsan aliquet. Sed nulla odio, tincidunt vitae nunc vitae, mollis pharetra velit. Sed nec tempor nibh...</p>
+            </li>
+            <li>
+                <a href="index.php?page=chronik/1995">1995</a>
+                <p>Fusce ullamcorper ligula sit amet quam accumsan aliquet. Sed nulla odio, tincidunt vitae nunc vitae, mollis pharetra velit. Sed nec tempor nibh...</p>
+            </li>
+            <li>
+                <a href="index.php?page=chronik/1994">1994</a>
+                <p>Fusce ullamcorper ligula sit amet quam accumsan aliquet. Sed nulla odio, tincidunt vitae nunc vitae, mollis pharetra velit. Sed nec tempor nibh...</p>
+            </li>
+            <li>
+                <a href="index.php?page=chronik/1993">1993</a>
+                <p>Fusce ullamcorper ligula sit amet quam accumsan aliquet. Sed nulla odio, tincidunt vitae nunc vitae, mollis pharetra velit. Sed nec tempor nibh...</p>
+            </li>
+            <li>
+                <a href="index.php?page=chronik/1992">1992</a>
+                <p>Fusce ullamcorper ligula sit amet quam accumsan aliquet. Sed nulla odio, tincidunt vitae nunc vitae, mollis pharetra velit. Sed nec tempor nibh...</p>
+            </li>
+            <li>
+                <a href="index.php?page=chronik/1991">1991</a>
+                <p>Fusce ullamcorper ligula sit amet quam accumsan aliquet. Sed nulla odio, tincidunt vitae nunc vitae, mollis pharetra velit. Sed nec tempor nibh...</p>
+            </li>
+            <li>
+                <a href="index.php?page=chronik/1989">1989</a>
+                <p>Fusce ullamcorper ligula sit amet quam accumsan aliquet. Sed nulla odio, tincidunt vitae nunc vitae, mollis pharetra velit. Sed nec tempor nibh...</p>
+            </li>
+            <li>
+                <a href="index.php?page=chronik/1986">1986</a>
+                <p>Fusce ullamco rper ligula sit amet quam accumsan aliquet. Sed nulla odio, tincidunt vitae nunc vitae, mollis pharetra velit. Sed nec tempor nibh...</p>
+            </li>
+            <li>
+                <a href="index.php?page=chronik/1980">1980</a>
+                <p>Fusce ullamcorper ligula sit amet quam accumsan aliquet. Sed nulla odio, tincidunt vitae nunc vitae, mollis pharetra velit. Sed nec tempor nibh...</p>
+            </li>
+            <li>
+                <a href="index.php?page=chronik/1979">1979</a>
+                <p>Fusce ullamcorper ligula sit amet quam accumsan aliquet. Sed nulla odio, tincidunt vitae nunc vitae, mollis pharetra velit. Sed nec tempor nibh...</p>
+            </li>
+            <li>
+                <a href="index.php?page=chronik/1978">1978</a>
+                <p>Fusce ullamcorper ligula sit amet quam accumsan aliquet. Sed nulla odio, tincidunt vitae nunc vitae, mollis pharetra velit. Sed nec tempor nibh...</p>
+            </li>
+            <li>
+                <a href="index.php?page=chronik/1977">1977</a>
+                <p>Fusce ullamcorper ligula sit amet quam accumsan aliquet. Sed nulla odio, tincidunt vitae nunc vitae, mollis pharetra velit. Sed nec tempor nibh...</p>
+            </li>
+            <li>
+                <a href="index.php?page=chronik/1976">1976 - Die Idee zum Spielmannszug ist geboren</a>
+                <p>Fusce ullamcorper ligula sit amet quam accumsan aliquet. Sed nulla odio, tincidunt vitae nunc vitae, mollis pharetra velit. Sed nec tempor nibh...</p>
+            </li>
+        </ul>
+    </div>
+	</div>
