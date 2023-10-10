@@ -52,7 +52,36 @@
                               }
                               else
                               {
-                                    echo "<h2>Fehler beim Laden der Inhaltsdatei.</h2>";
+                                    // Falls content.json nicht existiert, eine neue erstellen
+                                    $albumName = basename($directory);
+                                    $thumbnailFiles = glob($directory . "/*.jpg"); 
+
+                                    if (!empty($thumbnailFiles)) 
+                                    {
+                                          $thumbnailFile = basename($thumbnailFiles[0]);
+
+                                          $content = 
+                                          [
+                                                "Description" => $albumName,
+                                                "Album" => $albumName,
+                                                "Thumbnail" => $thumbnailFile
+                                          ];
+
+                                          // content.json erstellen und Inhalt schreiben
+                                          file_put_contents($contentFile, json_encode($content, JSON_PRETTY_PRINT));
+
+                                          // Bild als Zelle im Bootstrap Grid ausgeben
+                                          echo "<div class='col-md-3'>";
+                                          echo "<a href='?page=gallery&year=$year&album=$directory&name=$albumName'><img src='$directory/$thumbnailFile' class='img-thumbnail' alt=''/></a>";
+                                          echo "<br>";
+                                          echo "<p class='text-center'><a href='?page=gallery&year=$year&album=$directory&name=$albumName'>$albumName</a></p>";
+                                          echo "<p class='text-center'>$albumName</p>"; // Hier wird der Verzeichnisnamen verwendet, da keine Beschreibung vorhanden ist.
+                                          echo "</div>";
+                                    } 
+                                    else 
+                                    {
+                                          echo "<h4>Fehler beim Laden der Inhaltsdatei und beim Erstellen von content.json.</h4>";
+                                    }
                               }                        
                         }
 
