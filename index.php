@@ -103,10 +103,10 @@
                     <li><a href="index.php?page=ueber_uns/vorstand" title="Über uns">Über uns</a>
                         <ul>
                             <li><a href="index.php?page=ueber_uns/vorstand" title="Vorstand">Vorstand</a></li>
-                            <li><a href="#" title="Ausschuss">Ausschuss</a></li>
-                            <li><a href="#" title="Instrumente">Instrumente</a></li>
-                            <li><a href="#" title="Fahnenschwinger">Fahnenschwinger</a></li>
-                            <li><a href="#" title="Satzung">Satzung</a></li>
+                            <li><a href="index.php?page=ueber_uns/ausschuss" title="Ausschuss">Ausschuss</a></li>
+                            <li><a href="index.php?page=ueber_uns/instrumente" title="Instrumente">Instrumente</a></li>
+                            <li><a href="index.php?page=ueber_uns/fahnenschwinger" title="Fahnenschwinger">Fahnenschwinger</a></li>
+                            <li><a href="index.php?page=ueber_uns/satzung" title="Satzung">Satzung</a></li>
                         </ul>
                     </li>
 
