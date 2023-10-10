@@ -131,7 +131,34 @@
                     <li><a href="index.php?page=termine" title="Termine">Termine</a></li>
 
                     <!-- Bilder -->
-                    <li><a href="index.php?page=gallery&year=2010" title="Bilder">Bilder</a>
+                    <li><a href="index.php?page=gallery&year=2019" title="Bilder">Bilder</a>
+                        <ul>
+                            <li><a href="index.php?page=gallery&year=2019" title="Das Jahr 2019">2019</a></li>
+                        </ul>
+                        <ul>
+                            <li><a href="index.php?page=gallery&year=2018" title="Das Jahr 2018">2018</a></li>
+                        </ul>
+                        <ul>
+                            <li><a href="index.php?page=gallery&year=2017" title="Das Jahr 2017">2017</a></li>
+                        </ul>
+                        <ul>
+                            <li><a href="index.php?page=gallery&year=2016" title="Das Jahr 2016">2016</a></li>
+                        </ul>
+                        <ul>
+                            <li><a href="index.php?page=gallery&year=2015" title="Das Jahr 2015">2015</a></li>
+                        </ul>
+                        <ul>
+                            <li><a href="index.php?page=gallery&year=2014" title="Das Jahr 2014">2014</a></li>
+                        </ul>
+                        <ul>
+                            <li><a href="index.php?page=gallery&year=2013" title="Das Jahr 2013">2013</a></li>
+                        </ul>
+                        <ul>
+                            <li><a href="index.php?page=gallery&year=2012" title="Das Jahr 2012">2010</a></li>
+                        </ul>
+                        <ul>
+                            <li><a href="index.php?page=gallery&year=2011" title="Das Jahr 2011">2010</a></li>
+                        </ul>
                         <ul>
                             <li><a href="index.php?page=gallery&year=2010" title="Das Jahr 2010">2010</a></li>
                         </ul>
