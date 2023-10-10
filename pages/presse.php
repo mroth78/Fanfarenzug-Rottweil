@@ -7,7 +7,7 @@
     78628 Rottweil
 </p>
 
-<p>
+<p> 
     <a href="#" title="E-Mail an den Pressewart" class="mail" data-mailto-token="ocknvq,rtguugyctvBhcphctgpbwi/tqvvygkn0fg" data-mailto-vector="2">Pressewart</a>
 </p>
 
