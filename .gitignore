@@ -4,5 +4,5 @@
 # evl. vorhandene zip Date ignoreren
 *.zip
 
-# Alle Unterordner im Ordner Bilder ignorieren
-assets/
+# Alle Unterordner im Ordner Gallerie ignorieren
+assets/Gallerie/*
