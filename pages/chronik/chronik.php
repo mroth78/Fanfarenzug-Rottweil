@@ -1,5 +1,6 @@
 <h2 class="mb-5">Chronik</h2>
 
+// TODO: #2 Kurztexte für für die Chronikjahre einfügen 
 <div class="row">
     <div class="col-md-6 offset-md-3">        
         <ul class="timeline">

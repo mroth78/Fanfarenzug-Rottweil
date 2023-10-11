@@ -119,4 +119,3 @@
       {
         echo "<h3>Das Jahr ' . $year . ' wurde nicht gefunden!</h3>";
       }
-?>

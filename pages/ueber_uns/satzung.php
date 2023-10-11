@@ -27,7 +27,7 @@
     <div class="row justify-content-center">
         <div class="col-6">
             <a href="/assets/pdf/Umsetzung_CoronaVO_V1.0_Fz_rottweil_1978.pdf" target="_blank">
-            <image src="/assets/pdf/thumbnail_coronaVO.png" width="480" height="640">
+                <image src="/assets/pdf/thumbnail_coronaVO.png" width="480" height="640">
             </a>
         </div>
     </div>
