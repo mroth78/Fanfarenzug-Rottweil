@@ -1,0 +1,65 @@
+[
+    {
+        "Name":"Stammtisch 1",
+        "VonDatum": "20.06.2023",
+        "BisDatum": null,
+        "UhrzeitVon": "19:00",
+        "UhrzeitBis": "23:00",        
+        "Beschreibung": "Stammtisch 1",
+        "Ganztaegig": true
+    },
+    {
+        "Name":"Stammtisch",
+        "VonDatum": "20.07.2023",
+        "BisDatum": "21.07.2023",
+        "UhrzeitVon": "14:00",
+        "UhrzeitBis": "16:00",
+        "Beschreibung": "<h4>Stammtisch</h4> <br/>Das ist ein Test mit HTML in der Beschreibung.",
+        "Ganztaegig": false
+    },
+    {
+        "Name":"Sommerfest",
+        "VonDatum": "22.07.2023",
+        "BisDatum": "22.07.2023",
+        "UhrzeitVon": "10:30",
+        "UhrzeitBis": "12:00",
+        "Beschreibung": "Sommerfest",
+        "Ganztaegig": true
+    },
+    {
+        "Name":"Landesmeisterschaften",
+        "VonDatum": "25.07.2023",
+        "BisDatum": "26.07.2023",
+        "UhrzeitVon": "09:00",
+        "UhrzeitBis": "17:00",
+        "Beschreibung": "Landesmeisterschaften",
+        "Ganztaegig": true
+    },
+    {
+        "Name":"Stammtisch 6",
+        "VonDatum": "28.08.2023",
+        "BisDatum": null,
+        "UhrzeitVon": "17:00",
+        "UhrzeitBis": null,
+        "Beschreibung": "Stammtisch 6",
+        "Ganztaegig": false
+    },
+    {
+        "Name":"Stammtisch 7",
+        "VonDatum": "28.09.2023",
+        "BisDatum": null,
+        "UhrzeitVon": "17:00",
+        "UhrzeitBis": null,
+        "Beschreibung": "Stammtisch 7<br/>Das ist ein Test mit <b>HTML</b> in der Beschreibung.",
+        "Ganztaegig": false
+    },
+    {
+        "Name":"Stammtisch 8",
+        "VonDatum": "30.09.2023",
+        "BisDatum": null,
+        "UhrzeitVon": "17:00",
+        "UhrzeitBis": null,
+        "Beschreibung": "Stammtisch 8<br/>Das ist ein Test mit <b>HTML</b> in der Beschreibung.",
+        "Ganztaegig": false
+    }
+]
