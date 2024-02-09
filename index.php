@@ -32,7 +32,7 @@
                         <!-- Topmenü mit Kontakt, Impressum, Sitemap -->
                         <div class="topmenu text-md-end">
                             <span><a><a href="index.php?page=topmenu/kontakt" title="Kontakt">Kontakt</a></a></span>
-                            <span><a><a href="index.php?page=topmenu/sitemap" title="Sitemap">Sitemap</a></a></span>
+                            <!-- <span><a><a href="index.php?page=topmenu/sitemap" title="Sitemap">Sitemap</a></a></span> -->
                             <span><a><a href="index.php?page=topmenu/datenschutz" title="Datenschutz">Datenschutz</a></a></span>
                             <span><a><a href="index.php?page=topmenu/impressum" title="Impressum">Impressum</a></a></span>
                         </div>
