@@ -1,6 +1,6 @@
 <h2 class="mb-5">Chronik aus dem Jahr 2003</h2>
 
-<p>Nach jahrelanger Unterdrückung und ohne entgegengebrachter Respekt in der Historischen&nbsp;Bürgerwehr Rottweil machte sich der Fanfarenzug am&nbsp;<strong>15.06.2003</strong>&nbsp;selbstständig und wird unter dem neuen Namen&nbsp;<strong>"Fanfarenzug Rottweil 1978 e.V."</strong>&nbsp;gegründet.</p>
+<p>Nach jahrelanger Unterdrückung und ohne entgegengebrachtem Respekt in der Historischen&nbsp;Bürgerwehr Rottweil machte sich der Fanfarenzug am&nbsp;<strong>15.06.2003</strong>&nbsp;selbstständig und wird unter dem neuen Namen&nbsp;<strong>"Fanfarenzug Rottweil 1978 e.V."</strong>&nbsp;gegründet.</p>
 <p>Musikalisch haben wir einen Durchhänger und sind nicht spielfähig.</p>
 <p>Der Fanfarenzug bleibt aber trotzdem in der Tagespresse, das den guten Leistungen der Fahnenschwinger zu zuschreiben ist.&nbsp;</p>
 <p><strong>Monika Günthner</strong>&nbsp;wurde im Fahnenhochwurf den Weltmeistertitel und ist Besitzerin des&nbsp;<strong>Weltrekords</strong>&nbsp;der Damen mit 6.10 Metern.</p>
