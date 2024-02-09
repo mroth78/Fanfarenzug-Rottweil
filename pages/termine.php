@@ -19,6 +19,47 @@
             // JSON-Daten in ein assoziatives Array umwandeln
             $events = json_decode($json_data, true);
 
+            if (empty($events))
+            {
+                echo "Es wurden leider noch Termine angelegt.";
+            }
+            else
+            {
+                // Aktuelles Datum erhalten
+                $current_date = date('d.m.Y');            
+
+                // Tabelle mit den Terminelementen erstellen
+                foreach ($events as $event) 
+                {                
+                    // Datum und Uhrzeit des Termins prüfen
+                    if ($event['VonDatum'] >= $current_date) 
+                    {                    
+                        echo '<tr>';                    
+                    
+                        // Ausgabe Datum                     
+                        $wholeDay = $event['Ganztaegig'];
+                        if (empty($event['BisDatum']) || $event['VonDatum'] == $event['BisDatum'])
+                        {
+                            echo '<td>' . $event['VonDatum'] . '</td>'; 
+                        }                    
+                        else
+                        {
+                            echo '<td>' . $event['VonDatum'] . ' - ' . $event['BisDatum'] . '</td>'; 
+                        }
+                        
+                        // Ausgabe Zeitbereich
+                        $timeOutput = '<td>' . $event['UhrzeitVon'] . ' - ' . $event['UhrzeitBis'] . '</td>';
+                        if ($wholeDay == true)
+                        {
+                            $timeOutput = '<td>' . 'Ganztägig' . '</td>';                        
+                        }                                       
+
+                        echo $timeOutput;
+                        echo '<td>' . $event['Beschreibung'] . '</td>';
+                        echo '</tr>';
+                    }
+                }
+            }
             // Aktuelles Datum erhalten
             $current_date = date('d.m.Y');            
 
