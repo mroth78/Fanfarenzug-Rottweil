@@ -3,8 +3,8 @@
 <img src="..\images\gruppenbild.jpg" class="img-fluid mx-auto d-block mb-5 mt-5">
 
 <!-- Beginn eines News Eintrags -->
-<div class="row gx-5">
-    <div class="col-md-6 mb-4">
+<div class="row gx-5 justify-content-md-center">
+    <div class="col-md-8 mb-4">
         <span class="badge bg-danger px-2 py-1 shadow-1-strong mb-3">16.02.2024</span>
         <h4><strong><a href="index.php?page=gallery&year=2019"> Bilder der Fasnet 2019</a></strong></h4>
         <p class="text-muted">
@@ -16,9 +16,9 @@
 </div>
 <!-- Ende eines News Eintrags -->
 
-<div class="row gx-5">
-    <div class="col-md-6 mb-4">
-        <span class="badge bg-danger px-2 py-1 shadow-1-strong mb-3">16.02.2024</span>
+<div class="row gx-5 justify-content-md-center">
+    <div class="col-md-8 mb-4">
+        <span class="badge bg-danger px-2 py-1 shadow-1-strong mb-3">15.02.2024</span>
         <h4><strong>Überarbeitete Homepage</strong></h4>
         <p class="text-muted">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis consequatur
