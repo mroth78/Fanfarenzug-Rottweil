@@ -133,6 +133,10 @@ Terminliste
   text-align: left;
 }
 
+.event-name {
+  text-align: left;
+}
+
 .column-date {
   text-align: center;
 }

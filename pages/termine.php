@@ -17,7 +17,8 @@
         echo '<thead class="list-header">';
         echo '<tr class="">';      
         echo '<th class="" scope="col">Datum</th>'; 
-        echo '<th class="text-center" scope="col">Uhrzeit</th>';                        
+        echo '<th class="text-center" scope="col">Uhrzeit</th>'; 
+		echo '<th class="text-start" scope="col">Art</th>';
         echo '<th class="" scope="col">Beschreibung</th>';        
         echo '</tr>';
         echo '</thead>';
@@ -25,6 +26,8 @@
 
         // Ausgabe der Termine
         // JSON-Daten in ein assoziatives Array umwandeln
+
+        
         $events = json_decode($json_data, true);
         
         // Aktuelles Datum erhalten        
@@ -53,18 +56,19 @@
                 }
                 
                 // Ausgabe Zeitbereich                                                
-                $timeOutput = '<td class="column-time col-2">' . $event['UhrzeitVon'] . ' Uhr' . '<br/> - <br/>' . $event['UhrzeitBis'] . ' Uhr' . '</td>';
+                $timeOutput = '<td class="column-time col-3">' . $event['UhrzeitVon'] . ' Uhr' . ' - ' . $event['UhrzeitBis'] . ' Uhr' . '</td>';
                 if (empty($event['UhrzeitBis']))
                 {
-                    $timeOutput = '<td class="column-time col-2">' . $event['UhrzeitVon'] . ' Uhr' . '<br/> - <br/>' . 'Open End' . '</td>';
+                    $timeOutput = '<td class="column-time col-3">' . $event['UhrzeitVon'] . ' Uhr' . ' - ' . 'Open End' . '</td>';
                 }
 
                 if ($wholeDay == true)
                 {
-                    $timeOutput = '<td class="column-time col-2">' . 'Ganztägig' . '</td>';                        
+                    $timeOutput = '<td class="column-time col-3">' . 'Ganztägig' . '</td>';                        
                 }                                       
 
                 echo $timeOutput;
+				echo '<td class="event-name">' . $event['Name'] . '</td>';
                 echo '<td class="event-title">' . $event['Beschreibung'] . '</td>';
                 echo '</tr>';
             }

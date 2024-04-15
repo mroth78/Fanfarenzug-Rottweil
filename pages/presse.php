@@ -7,9 +7,18 @@
     78628 Rottweil
 </p>
 
-<p>      
+<p>
     <a href="#" title="E-Mail an den Pressewart" class="mail" data-mailto-token="ocknvq,rtguugyctvBhcphctgpbwi/tqvvygkn0fg" data-mailto-vector="2">Pressewart</a>
 </p>
+
+<h3>Presseberichte 2024</h3>
+<div class="row">
+    <div class="col-2">
+        <a href="/assets/presse/2024/20240327_pressemitteilung_nrwz_guenthner_klaus.pdf" target="_blank">
+            <image src="/assets/presse/2024/20240327_pressemitteilung_nrwz_guenthner_klaus.jpg" width="150" height="195">
+        </a>
+    </div>
+</div>
 
 <h3>Presseberichte 2021</h3>
 <div class="row">
@@ -169,13 +178,13 @@
 
     <div class="col-2">
         <a href="/assets/presse/2013/20130609_pressebericht.pdf" target="_blank">
-            <image src="/assets/presse/2013/20130609_pressebericht.jpg" width="150" height="195">
+            <image src="/assets/presse/2013/20130609_pressebericht_Seite_1.jpg" width="150" height="195">
         </a>
     </div>
 
     <div class="col-2">
         <a href="/assets/presse/2013/20130629_pressebericht.pdf" target="_blank">
-            <image src="/assets/presse/2013/20130629_pressebericht.pdf" width="150" height="195">
+            <image src="/assets/presse/2013/20130629_pressebericht_Seite_1.jpg" width="150" height="195">
         </a>
     </div>
 </div>

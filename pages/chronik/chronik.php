@@ -4,6 +4,10 @@
     <div class="col-md-6 offset-md-3">        
         <ul class="timeline">
             <li>
+                <a href="index.php?page=chronik/2023">2023 - Viele Ehrungen und ein runder Geburtstag.</a>
+                <p>Am 17. März 2023 fand die Sportlerehrung der Stadt Rottweil statt...</p>
+            </li>
+            <li>
                 <a href="index.php?page=chronik/2022">2022 - Stabführerlehrgang und Weltmeisterschaften.</a>
                 <p>Am 09. April 2022 fand die Mitgliederversammlung des Landesverbands der Spielmanns-und Fanfarenzüge in Esslingen statt...</p>
             </li>

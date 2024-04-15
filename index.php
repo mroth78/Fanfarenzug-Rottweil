@@ -88,8 +88,10 @@
                     <li><a href="index.php?page=termine" title="Termine">Termine</a></li>
 
                     <!-- Bilder -->
-                    <li><a href="index.php?page=gallery&year=2019" title="Bilder">Bilder</a>
+                    <li><a href="index.php?page=gallery&year=2021" title="Bilder">Bilder</a>
                         <ul>
+                            <li><a href="index.php?page=gallery&year=2021" title="Das Jahr 2021">2021</a></li>
+                            <li><a href="index.php?page=gallery&year=2020" title="Das Jahr 2020">2020</a></li>
                             <li><a href="index.php?page=gallery&year=2019" title="Das Jahr 2019">2019</a></li>
                             <li><a href="index.php?page=gallery&year=2018" title="Das Jahr 2018">2018</a></li>
                             <li><a href="index.php?page=gallery&year=2017" title="Das Jahr 2017">2017</a></li>

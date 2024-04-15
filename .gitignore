@@ -5,4 +5,4 @@
 *.zip
 
 # Alle Unterordner im Ordner assets/Bilder ignorieren
-assets/Bilder/*
+assets/[Bb]ilder/*
